@@ -62,9 +62,22 @@ function parseProduct(html) {
 
 const GLOSS = [['アクリルスタンドキーホルダー', '아크릴 스탠드 키홀더'], ['アクリルチャーム', '아크릴 참'], ['チャーム', '참'], ['缶バッジ', '캔배지'], ['ラバーストラップ', '러버 스트랩'], ['ラバーマグネット', '러버 마그넷'], ['ラバーコースター', '러버 코스터'], ['アクリルスタンド', '아크릴 스탠드'], ['クリアファイル', '클리어 파일'], ['ハンドタオル', '핸드 타올'], ['タオル', '타올'], ['ぬいぐるみ', '인형'], ['フィギュア', '피규어'], ['色紙', '색지'], ['ちょこのっこ', '초코놋코'], ['リングストラップ', '링 스트랩'], ['ステッカー', '스티커'], ['マグカップ', '머그컵'], ['ポスター', '포스터'], ['一番くじちょこっと', '이치방쿠지 초콧토']];
 const hasJa = s => /[぀-ヿ一-鿿]/.test(s || '');
+const ENGINES = [
+  async q => { const r = await fetch('https://translate.googleapis.com/translate_a/single?client=gtx&sl=ja&tl=ko&dt=t&q=' + encodeURIComponent(q), { headers: HEADERS });
+    if (!r.ok) throw new Error('gtx ' + r.status); const j = await r.json(); return j[0].map(x => x[0]).join(''); },
+  async q => { const r = await fetch('https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=ja&tl=ko&q=' + encodeURIComponent(q), { headers: HEADERS });
+    if (!r.ok) throw new Error('dict ' + r.status); const j = await r.json(); const x = Array.isArray(j[0]) ? j[0][0] : j[0]; if (typeof x !== 'string') throw new Error('dict shape'); return x; },
+  async q => { const r = await fetch('https://api.mymemory.translated.net/get?langpair=ja|ko&de=hyunseo.lottery@users.noreply.github.com&q=' + encodeURIComponent(q));
+    if (!r.ok) throw new Error('mymemory ' + r.status); const j = await r.json(); const x = j && j.responseData && j.responseData.translatedText;
+    if (!x || /MYMEMORY WARNING|QUERY LENGTH/i.test(x)) throw new Error('mymemory ' + (j && j.responseStatus)); return x; },
+];
+let engine = 0;
 async function gt(q) {
-  const r = await fetch('https://translate.googleapis.com/translate_a/single?client=gtx&sl=ja&tl=ko&dt=t&q=' + encodeURIComponent(q));
-  const j = await r.json(); return j[0].map(x => x[0]).join('');
+  for (let n = 0; n < ENGINES.length; n++) {
+    const i = (engine + n) % ENGINES.length;
+    try { const out = await ENGINES[i](q); engine = i; return out; } catch (e) { console.log('translate engine', i, 'failed:', e.message); }
+  }
+  throw new Error('all translators failed');
 }
 async function toKo(arr) {
   const src = arr.map(s => GLOSS.reduce((t, [a, b]) => t.split(a).join(b), String(s || '')));
