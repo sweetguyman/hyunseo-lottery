@@ -1,0 +1,1147 @@
+{
+ "updated": "2026-10-08T11:13:19.706Z",
+ "month": "2026-10",
+ "label": "10월 발매",
+ "items": [
+  {
+   "slug": "slime23",
+   "title": "ちょこっと 転生したらスライムだった件",
+   "titleJa": "ちょこっと 転生したらスライムだった件",
+   "img": "https://assets.1kuji.com/uploads/product/image/10812/be751f76-c1d5-4ae1-a513-95b4e65560ea.webp",
+   "date": "10월 2일 발매",
+   "day": 2,
+   "prizes": {
+    "A": {
+     "name": "인형マスコット",
+     "note": "전7종 (선택) · 크기 약 9cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107197/039c52ad-7cd6-4d9b-93d9-d76bd52892db.webp"
+    },
+    "B": {
+     "name": "メタリック포스터",
+     "note": "전8종 (선택) · 크기 A3",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107198/2dc9640c-834f-476a-8e93-4eb537b5e079.webp"
+    },
+    "C": {
+     "name": "아크릴 스탠드",
+     "note": "전8종 (선택) · 크기 약 9～12cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107199/b4429477-d1c1-4d92-8c02-98ffd87d23fd.webp"
+    },
+    "D": {
+     "name": "ラバー참",
+     "note": "전7종 (랜덤) · 크기 약 6cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107200/d218ac6d-f9b4-4c94-9927-4cef38e615c6.webp"
+    },
+    "LAST": {
+     "name": "アクリルボード",
+     "note": "크기 B5",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107201/5e170159-b270-44e4-9f2a-8843387cbf26.webp"
+    }
+   }
+  },
+  {
+   "slug": "gundam_ucs2",
+   "title": "機動戦士ガンダム UNIVERSAL CENTURY SAGA2",
+   "titleJa": "機動戦士ガンダム UNIVERSAL CENTURY SAGA2",
+   "img": "https://assets.1kuji.com/uploads/product/image/10691/d74ba5c2-6215-4e8c-a885-a458cd589a86.webp",
+   "date": "10월 3일 발매",
+   "day": 3,
+   "prizes": {
+    "A": {
+     "name": "RX-78-2ガンダム BUSTISAN",
+     "note": "전1종 · 크기 약 18cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106611/5983be8b-4468-48e7-aa9d-98cf09ea56ca.webp"
+    },
+    "B": {
+     "name": "ヘリテージBOX[機動戦士ガンダム]",
+     "note": "전1종 · 크기 약 25cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107207/0f239a2d-c0fc-475d-ab83-11cd3b0437ba.webp"
+    },
+    "C": {
+     "name": "アムロ・レイ MASTERLISE",
+     "note": "전1종 · 크기 약 24cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106612/2c9e6db7-44b4-425c-abc9-0e19edb5baec.webp"
+    },
+    "D": {
+     "name": "MSヘッドマグネット",
+     "note": "전4종 (랜덤) · 크기 약 5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106613/b35f355a-77c7-4928-95d4-32b76491408c.webp"
+    },
+    "E": {
+     "name": "表情ラバー참",
+     "note": "전8종 (선택) · 크기 약 9cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107208/4721cc2a-43ef-43c2-abf4-f782306b8aed.webp"
+    },
+    "F": {
+     "name": "ガンダムアクリルに立つ!!",
+     "note": "전22종 (선택) · 크기 약 9cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107209/cf0b4700-bf9d-42e6-a13b-338d855c6bdf.webp"
+    },
+    "G": {
+     "name": "クリア스티커セット",
+     "note": "전8종 (선택) · 크기 A5",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107210/a306f55e-917e-4b33-a913-788f55cc4e49.webp"
+    },
+    "LAST": {
+     "name": "機動戦士ガンダム THE GIGANT NAME",
+     "note": "크기 약 25cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106614/a0618260-5888-43a2-b0bc-dbe818657d8a.webp"
+    }
+   }
+  },
+  {
+   "slug": "fairytail",
+   "title": "FAIRY TAIL 20th ANNIVERSARY",
+   "titleJa": "FAIRY TAIL 20th ANNIVERSARY",
+   "img": "https://assets.1kuji.com/uploads/product/image/10763/03867a5d-5ba4-4aa0-939d-bf62c51c2028.webp",
+   "date": "10월 3일 발매",
+   "day": 3,
+   "prizes": {
+    "A": {
+     "name": "ナツ・ドラグニル MASTERLISE",
+     "note": "전1종 · 크기 약 25cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106591/a2510b80-6d5a-4003-a6c7-db0ebfb946fa.webp"
+    },
+    "B": {
+     "name": "ルーシィ・ハートフィリア MASTERLISE",
+     "note": "전1종 · 크기 약 23cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106592/fb136a89-16d2-4c5f-8941-23f2a35a23ee.webp"
+    },
+    "C": {
+     "name": "ハッピー MASTERLISE",
+     "note": "전1종 · 크기 약 7cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106593/298aea5b-250b-45ca-a660-debb15c6ad4e.webp"
+    },
+    "D": {
+     "name": "星霊達のデスクトップマスコット",
+     "note": "전2종 (랜덤) · 크기 약 5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106987/d5d1f9a3-200c-46a0-8c52-21f65e8ec3a3.webp"
+    },
+    "E": {
+     "name": "아크릴 스탠드",
+     "note": "전10종 (랜덤) · 크기 약 6cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106988/3428fb29-b97e-4ece-a845-d3a504a98061.webp"
+    },
+    "F": {
+     "name": "クリア포스터",
+     "note": "전12종 (선택) · 크기 A3",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106989/bbc5b5d4-10b6-4513-a416-8598e39bdb41.webp"
+    },
+    "G": {
+     "name": "스티커アソート",
+     "note": "전12종 (선택) · 크기 약 5cm（6장 세트）, 약 7cm（4장 세트）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106990/9c82044a-d766-4877-bcd7-97a0c5ff1366.webp"
+    },
+    "LAST": {
+     "name": "エルザ・スカーレット MASTERLISE",
+     "note": "크기 약 25cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106594/e81db43c-bdf8-4617-b065-0174f7a2de57.webp"
+    }
+   }
+  },
+  {
+   "slug": "disney_toy8-2",
+   "title": "〈トイ・ストーリー〉～Playtime pals forever（遊び仲間は永遠に）～（再販売）",
+   "titleJa": "〈トイ・ストーリー〉～Playtime pals forever（遊び仲間は永遠に）～（再販売）",
+   "img": "https://assets.1kuji.com/uploads/product/image/10846/3d703207-f443-4ec6-a0db-d4f9702f7237.webp",
+   "date": "10월 9일 발매",
+   "day": 9,
+   "prizes": {
+    "A": {
+     "name": "〈ウッディ〉피규어",
+     "note": "전1종 · 크기 カゴ 약 19cm, 人形 약 11cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107351/6ac33b70-4030-4ad2-bc3d-93403d32ed52.webp"
+    },
+    "B": {
+     "name": "〈ベビーフェイス〉ミニ피규어",
+     "note": "전1종 · 크기 약 4cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107352/2126c68f-fc71-4a5b-898a-4c2fa2b4c497.webp"
+    },
+    "C": {
+     "name": "〈ハンド・イン・ザ・ボックス〉ミニ피규어",
+     "note": "전1종 · 크기 약 7cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107353/8e235f84-2e7a-4216-9730-799c017c0c5f.webp"
+    },
+    "D": {
+     "name": "〈ローラー・ボブ〉ミニ피규어",
+     "note": "전1종 · 크기 약 3cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107354/c9c24521-2465-4c3a-8839-8af333a771c9.webp"
+    },
+    "E": {
+     "name": "〈レッグス〉ミニ피규어",
+     "note": "전1종 · 크기 약 6cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107355/ea5641c2-c027-4b6d-a0a1-a6c5627875ac.webp"
+    },
+    "F": {
+     "name": "〈ガーガー〉ミニ피규어",
+     "note": "전1종 · 크기 약 4.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107356/81eed61c-0bea-43a9-8fec-fcf2fba51c73.webp"
+    },
+    "G": {
+     "name": "〈ジェイニー＆ミュータント・ジェイニー〉ミニ피규어",
+     "note": "전1종 · 크기 약 6cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107357/271b8aff-1d3e-4096-9509-3d863a1331b4.webp"
+    },
+    "H": {
+     "name": "〈ミセス・ネズビット〉ミニ피규어",
+     "note": "전1종 · 크기 약 5.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107358/66a00609-5519-4a6c-9a3f-9a054b7f35ef.webp"
+    },
+    "I": {
+     "name": "〈RC〉ミニ피규어",
+     "note": "전1종 · 크기 약 3cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107359/fe308b8c-19c8-409f-a839-a6c08971d563.webp"
+    },
+    "J": {
+     "name": "〈レニー〉ミニ피규어",
+     "note": "전1종 · 크기 약 2cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107360/eb00cbc4-73fc-4114-b728-48964675cd7e.webp"
+    },
+    "K": {
+     "name": "〈ウィージー〉ミニ피규어",
+     "note": "전1종 · 크기 약 3.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107361/4383139f-be46-4c24-b2eb-cf0dc4df21d8.webp"
+    },
+    "L": {
+     "name": "〈ザーグ〉ミニ피규어",
+     "note": "전1종 · 크기 약 7cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107362/55a71068-bc5b-441c-b81d-fbf28f3f88ea.webp"
+    },
+    "M": {
+     "name": "〈ブックワーム〉ミニ피규어",
+     "note": "전1종 · 크기 약 3cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107363/df384a41-6517-4c4d-a0d6-3591149e4adf.webp"
+    },
+    "N": {
+     "name": "〈チャターフォン〉ミニ피규어",
+     "note": "전1종 · 크기 약 2cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107364/ef53566c-7bbd-4aba-ad4a-6d1c3694f6bf.webp"
+    },
+    "O": {
+     "name": "ポーチ",
+     "note": "전3종 (선택) · 크기 약 20cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107365/1f43b3dc-b838-4dc8-a499-0174095870c2.webp"
+    },
+    "P": {
+     "name": "클리어 파일＆스티커",
+     "note": "전6종 (선택) · 크기 클리어 파일 A5 , 스티커 약 5cm（3장 세트）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107366/c924e4e2-0601-4f98-81b8-f2085e7b9a6a.webp"
+    },
+    "Q": {
+     "name": "名場面ポストカードセット",
+     "note": "전6종 (선택) · 크기 약 14cm（8장 세트）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107367/8d64a0b4-365c-4295-8d04-02b80145fe74.webp"
+    },
+    "LAST": {
+     "name": "〈バズ〉피규어",
+     "note": "크기 ロケット花火 약 16cm, 人形 약 8.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107368/76267ff9-341f-4694-8cac-f91ac72711c0.webp"
+    }
+   }
+  },
+  {
+   "slug": "disney_pooh7",
+   "title": "〈くまのプーさん〉100th Anniversary",
+   "titleJa": "〈くまのプーさん〉100th Anniversary",
+   "img": "https://assets.1kuji.com/uploads/product/image/10751/57da6398-11f5-4665-b4bd-f97d75dc0721.webp",
+   "date": "10월 10일 발매",
+   "day": 10,
+   "prizes": {
+    "A": {
+     "name": "ブックシェイプドライト",
+     "note": "전1종 · 크기 약 18cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106991/b5b4bcef-9098-4d1d-ad15-9eaf580a0af1.webp"
+    },
+    "B": {
+     "name": "〈プーさん〉マスコット",
+     "note": "전1종 · 크기 약 15cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107233/c9043591-1756-4aa9-9f35-5e455887d921.webp"
+    },
+    "C": {
+     "name": "〈プーさん〉인형風フロッキー피규어",
+     "note": "전1종 · 크기 약 5.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107234/586db464-3f5f-4a54-86a6-bb39d755e9b6.webp"
+    },
+    "D": {
+     "name": "〈ピグレット〉인형風フロッキー피규어",
+     "note": "전1종 · 크기 약 3.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107235/b68a3590-7185-4267-8f2a-e50a5f1324dd.webp"
+    },
+    "E": {
+     "name": "〈イーヨー〉인형風フロッキー피규어",
+     "note": "전1종 · 크기 약 6cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107236/972b309b-e9b2-400c-a1c4-16721198b64c.webp"
+    },
+    "F": {
+     "name": "〈ティガー〉인형風フロッキー피규어",
+     "note": "전1종 · 크기 약 6cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107237/f563b6fa-db89-48fd-85bd-04dbfb6ad350.webp"
+    },
+    "G": {
+     "name": "〈ランピー＆ルー〉인형風フロッキー피규어",
+     "note": "전1종 · 크기 ランピー 약 6cm, ルー 약 3cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107238/8da42410-441c-4c1f-baff-c17ca133bc73.webp"
+    },
+    "H": {
+     "name": "ミニチュアプレート",
+     "note": "전8종 (랜덤) · 크기 약 9cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107239/cab6d17e-f143-4301-9fe7-dcc90a306f38.webp"
+    },
+    "I": {
+     "name": "ダイカットカラビナ",
+     "note": "전2종 (선택) · 크기 약 7cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107240/7d4c6581-0e2e-4b72-8494-797fc4ad79d6.webp"
+    },
+    "J": {
+     "name": "아크릴 참",
+     "note": "전10종 (랜덤) · 크기 약 4.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107241/b930d9c3-d435-4f1b-b15a-9fcdc8d42351.webp"
+    },
+    "K": {
+     "name": "〈100エーカーの森〉フレーク스티커",
+     "note": "전8종 (선택) · 크기 약 5～7cm（6장 세트）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107242/e2fa5e8a-a441-485b-b741-47f43cb4421b.webp"
+    },
+    "LAST": {
+     "name": "アニバーサリー인형",
+     "note": "크기 약 40cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107243/48d5c523-b6df-4871-9999-fcf6b356ba75.webp"
+    }
+   }
+  },
+  {
+   "slug": "umamusume17",
+   "title": "ウマ娘 プリティーダービー 14弾",
+   "titleJa": "ウマ娘 プリティーダービー 14弾",
+   "img": "https://assets.1kuji.com/uploads/product/image/10726/b28b39ba-58af-4ce3-b85f-b9aa3bb8a5c6.webp",
+   "date": "10월 17일 발매",
+   "day": 17,
+   "prizes": {
+    "A": {
+     "name": "ステイゴールド GOLD WEEK 피규어",
+     "note": "전1종 · 크기 약 17cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106425/ca107977-4bf0-4506-bf1d-e1c465ce12a8.webp"
+    },
+    "B": {
+     "name": "ドリームジャーニー GOLD WEEK 피규어",
+     "note": "전1종 · 크기 약 18cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106426/a78a538e-e2f2-4eff-9f51-09f3c931ab40.webp"
+    },
+    "C": {
+     "name": "オルフェーヴル GOLD WEEK 피규어",
+     "note": "전1종 · 크기 약 20cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106427/2fa4e606-8d00-4d8d-8016-0a69670d6d8e.webp"
+    },
+    "D": {
+     "name": "金のゴルシ像",
+     "note": "전1종 · 크기 약 20cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106428/c705d84f-58a6-4fb5-9174-870ba656b29d.webp"
+    },
+    "E": {
+     "name": "초코놋코피규어",
+     "note": "전6종 (랜덤) · 크기 약 4.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107284/8e76a6da-c156-4fdd-8269-e33070e2101d.webp"
+    },
+    "F": {
+     "name": "クール타올",
+     "note": "전8종 (선택) · 크기 약 60cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107285/70585ea1-aaff-4e0b-84c5-58baa5056403.webp"
+    },
+    "G": {
+     "name": "ホログラム캔배지",
+     "note": "전10종 (선택) · 크기 약 7.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107286/c7dee33d-43db-44fc-b937-b576fb459da3.webp"
+    },
+    "H": {
+     "name": "ラバー참",
+     "note": "전10종 (랜덤) · 크기 본체 약 7cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107287/6609e976-65bb-444d-8299-02058442511c.webp"
+    },
+    "LAST": {
+     "name": "ステイゴールド GOLD WEEK 피규어 ラストワンver.",
+     "note": "크기 약 17cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106590/23b00802-13ee-4da4-bdd9-0538584953e1.webp"
+    }
+   }
+  },
+  {
+   "slug": "db_z8",
+   "title": "ドラゴンボール SPIRIT OF THE SAIYAN",
+   "titleJa": "ドラゴンボール SPIRIT OF THE SAIYAN",
+   "img": "https://assets.1kuji.com/uploads/product/image/10727/89fd817d-9d86-4135-9eb8-7274bc397f7b.webp",
+   "date": "10월 17일 발매",
+   "day": 17,
+   "prizes": {
+    "A": {
+     "name": "孫悟空 MASTERLISE",
+     "note": "전1종 · 크기 약 20cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106499/8b66b6b2-2cf3-4c7c-8762-25e52284a9dd.webp"
+    },
+    "B": {
+     "name": "超サイヤ人孫悟飯 MASTERLISE",
+     "note": "전1종 · 크기 약 19cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106500/6c6cc9d6-52f8-4caa-9df3-eb180fb16441.webp"
+    },
+    "C": {
+     "name": "孫悟天 MASTERLISE",
+     "note": "전1종 · 크기 약 13cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106501/42c073a9-4f55-4480-8bdd-534108cb459c.webp"
+    },
+    "D": {
+     "name": "バーダック MASTERLISE",
+     "note": "전1종 · 크기 약 25cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106502/8c01f552-c049-49a6-bf23-84e88617acfc.webp"
+    },
+    "E": {
+     "name": "ラディッツ MASTERLISE",
+     "note": "전1종 · 크기 약 25cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106503/3c833f15-f3e5-49b0-a2a0-ba35978c2360.webp"
+    },
+    "F": {
+     "name": "피규어マグネット",
+     "note": "전3종 (랜덤) · 크기 약 5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107265/6c355853-747b-44aa-bd75-6f528afe7c98.webp"
+    },
+    "G": {
+     "name": "ポーチ",
+     "note": "전7종 (선택) · 크기 약 13cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107266/1e91d283-4023-4f6b-8f65-0218f45514f9.webp"
+    },
+    "H": {
+     "name": "아크릴 스탠드",
+     "note": "전9종 (랜덤) · 크기 약 7～10cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107267/8f7671be-60eb-4b77-b40f-6507884b85e2.webp"
+    },
+    "I": {
+     "name": "ラバーアソート",
+     "note": "전7종 (랜덤) · 크기 マグネット 약 6.5cm, ロゴラバー 약 5.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107268/924e5ff2-8098-4673-a2ff-9c960b7cc981.webp"
+    },
+    "J": {
+     "name": "ダイカット타올",
+     "note": "전9종 (선택) · 크기 약 24cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107269/689665f5-cb8d-4af7-be43-d755fa1c6a0c.webp"
+    },
+    "LAST": {
+     "name": "孫悟空&孫悟飯 MASTERLISE PLUS",
+     "note": "크기 약 21cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106504/69decc3f-1d8c-48fa-aa0a-24c6aeb807cf.webp"
+    }
+   }
+  },
+  {
+   "slug": "disney_monsters-inc",
+   "title": "〈モンスターズ・インク〉",
+   "titleJa": "〈モンスターズ・インク〉",
+   "img": "https://assets.1kuji.com/uploads/product/image/10752/008390d4-a3d5-44b1-b9fc-63ddac0b6539.webp",
+   "date": "10월 17일 발매",
+   "day": 17,
+   "prizes": {
+    "A": {
+     "name": "ハイド＆エスケープ피규어",
+     "note": "전1종 · 크기 약 14cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107249/fc8153d0-ada5-42df-931f-f77b1c3d4b29.webp"
+    },
+    "B": {
+     "name": "〈エネルギータンク〉コインバンク",
+     "note": "전1종 · 크기 약 16cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107326/d2595477-d1ec-4840-b6ab-29e6b99b8cf3.webp"
+    },
+    "C": {
+     "name": "ちらりんフレンズ 인형マスコット",
+     "note": "전2종 (선택) · 크기 약 6.5～12cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107327/5460ca66-96f7-40af-ad31-47ed1448b8df.webp"
+    },
+    "D": {
+     "name": "〈サリー〉 Displayful",
+     "note": "전1종 · 크기 약 5.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107328/072114f5-eedc-49c1-9bd9-005c34c252fd.webp"
+    },
+    "E": {
+     "name": "〈マイク〉 Displayful",
+     "note": "전1종 · 크기 약 4.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107329/0eb20399-73bb-4386-a2ff-3608eec8ba38.webp"
+    },
+    "F": {
+     "name": "〈ランドール〉 Displayful",
+     "note": "전1종 · 크기 약 5.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107330/ef014c38-c489-4c81-bae0-2a29f092b2cf.webp"
+    },
+    "G": {
+     "name": "〈ロズ〉 Displayful",
+     "note": "전1종 · 크기 약 5.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107331/dd3a40d2-12a6-427c-8878-46ec8d334197.webp"
+    },
+    "H": {
+     "name": "〈Monsters, Inc.〉コーポレートアソート",
+     "note": "전3종 (선택) · 크기 ネックストラップ 약 45cm, 社員証付きカードホルダー 약 9.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107332/e1c23370-d8a3-46a4-8f99-22c6e0d6be83.webp"
+    },
+    "I": {
+     "name": "モンスターズ타올コレクション",
+     "note": "전9종 (선택) · 크기 ジャガードハーフ타올 약 25cm, マイクロファイバー타올 약 23cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107333/ea7d324e-a638-4351-8222-e03b285b2bbe.webp"
+    },
+    "J": {
+     "name": "포스터＆ポストカードセット",
+     "note": "전10종 (선택) · 크기 포스터 A3, ポストカード 약 14cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107334/2a389dd5-61be-4b55-85d3-4dae453fa6e1.webp"
+    },
+    "K": {
+     "name": "ステーショナリーコレクション",
+     "note": "전9종 (선택) · 크기 스티커 약 6.5cm（6장 세트）, ポップアップメモ 약 9cm, マスキングテープ 幅약 1.5cm×약 7m（2個セット）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107335/a1fb15f0-bd4c-4b8e-b9ba-e1f894a90bea.webp"
+    },
+    "LAST": {
+     "name": "ハイド＆エスケープ피규어 with〈ランドール〉",
+     "note": "크기 약 14cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107336/8cea4e26-04a9-411e-ae24-c85a487b3a2b.webp"
+    }
+   }
+  },
+  {
+   "slug": "glay",
+   "title": "GLAY",
+   "titleJa": "GLAY",
+   "img": "https://assets.1kuji.com/uploads/product/image/10762/912b6ff4-f63b-4153-96e7-8f87e0187958.webp",
+   "date": "10월 17일 발매",
+   "day": 17,
+   "prizes": {
+    "A": {
+     "name": "箔押し複製サイン入りビジュアルボード",
+     "note": "전1종 · 크기 B3",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107409/3103716e-0934-4b93-a9d7-9c374b89c702.webp"
+    },
+    "B": {
+     "name": "ストール",
+     "note": "전2종 (선택) · 크기 약 130cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107410/ad697dd2-d239-46eb-9327-7c9b5d65fb52.webp"
+    },
+    "C": {
+     "name": "PUNY BEANS 피규어",
+     "note": "전5종（うちシークレット1種・選べない） · 크기 약 4.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107411/4dd21629-5bf1-429a-8ebd-4c4386d6fe20.webp"
+    },
+    "D": {
+     "name": "カラーボトムグラス",
+     "note": "전4종 (랜덤) · 크기 약 8cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107412/00109d0c-dd91-43bf-815d-c558ea4870e2.webp"
+    },
+    "E": {
+     "name": "ボトルオープナー風キーホルダー",
+     "note": "전5종 (랜덤) · 크기 약 6cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107413/ef61b372-6848-4949-9c84-1b98f9ad2666.webp"
+    },
+    "F": {
+     "name": "ラバーアソート",
+     "note": "전7종 (선택) · 크기 ラバーネームスタンド 약 4.5cm, ラバータイ 약 14cm, マーカー참 약 4.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107414/70f2ee3a-ad31-4741-9b53-6ae6d705aa1c.webp"
+    },
+    "G": {
+     "name": "스티커セット",
+     "note": "전10종 (선택) · 크기 약 5cm（3장 세트）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107415/b3f53763-f666-4ff8-a5ed-5a9d523e5a8a.webp"
+    },
+    "H": {
+     "name": "ジッパーバッグ",
+     "note": "전5종 (선택) · 크기 약 15cm（1種2柄4枚入り）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107416/2b95ef81-4e67-444d-ae48-fbe4e8c4ffdd.webp"
+    },
+    "LAST": {
+     "name": "ズラー付きクッション",
+     "note": "크기 약 45cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107417/13551e6e-15bf-49ef-b492-902e45ce39be.webp"
+    }
+   }
+  },
+  {
+   "slug": "kinniku3",
+   "title": "キン肉マン 超人血盟軍",
+   "titleJa": "キン肉マン 超人血盟軍",
+   "img": "https://assets.1kuji.com/uploads/product/image/10767/0ab37338-869d-4b2b-8d4f-fd19c47e2ac9.webp",
+   "date": "10월 17일 발매",
+   "day": 17,
+   "prizes": {
+    "A": {
+     "name": "ブロッケンJr. MASTERLISE",
+     "note": "전1종 · 크기 약 23cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106570/c67f2ba3-0695-440c-bdbc-96a827b3d028.webp"
+    },
+    "B": {
+     "name": "ザ・ニンジャ MASTERLISE",
+     "note": "전1종 · 크기 약 16cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106571/78b53831-8e1e-46c1-8e37-60c743fa4c2c.webp"
+    },
+    "C": {
+     "name": "アシュラマン MASTERLISE",
+     "note": "전1종 · 크기 약 27cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106572/c328bd52-a15b-49dc-b6e7-c39ae860fa77.webp"
+    },
+    "D": {
+     "name": "バッファローマン MASTERLISE",
+     "note": "전1종 · 크기 약 30cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106573/50f8219f-bca9-454f-bbc8-3086cd38a967.webp"
+    },
+    "E": {
+     "name": "러버 코스터",
+     "note": "전5종 (랜덤) · 크기 약 11cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107270/2117446e-0cd4-46b3-abfc-a088a120d473.webp"
+    },
+    "F": {
+     "name": "ジャガード타올",
+     "note": "전5종 (선택) · 크기 약 20cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107271/73b72ecd-352c-4c27-a993-456303239629.webp"
+    },
+    "G": {
+     "name": "クリア포스터",
+     "note": "전8종 (선택) · 크기 A3",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107272/09fefbda-fc49-49a4-bf29-77d0250a3239.webp"
+    },
+    "LAST": {
+     "name": "キン肉マンソルジャー MASTERLISE",
+     "note": "크기 약 25cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106574/8bd885a7-db84-460e-b365-bddb2a1a874e.webp"
+    }
+   }
+  },
+  {
+   "slug": "moomin11",
+   "title": "ムーミン ～A day like this～",
+   "titleJa": "ムーミン ～A day like this～",
+   "img": "https://assets.1kuji.com/uploads/product/image/10778/81f1d54c-4a61-48df-b5c2-dde60c2a4fa4.webp",
+   "date": "10월 23일 발매",
+   "day": 23,
+   "prizes": {
+    "A": {
+     "name": "ルームライト",
+     "note": "전1종 · 크기 약 14cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107062/d4276326-34c6-4592-aef2-97b3eaf4bafe.webp"
+    },
+    "B": {
+     "name": "レリーフ머그컵",
+     "note": "전1종 · 크기 약 8.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107306/d0183319-9938-4fb8-897e-509c3cb5226c.webp"
+    },
+    "C": {
+     "name": "ブランケット",
+     "note": "전1종 · 크기 약 85cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107307/7f579f09-13cd-42b2-b198-a4e2ac1484fe.webp"
+    },
+    "D": {
+     "name": "デスクトップ피규어",
+     "note": "전2종 (선택) · 크기 ムーミン 약 6cm, ご先祖さま 약 5cm（台座含む）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107308/75590bfd-444f-475a-b0cb-d19b56e792d5.webp"
+    },
+    "E": {
+     "name": "인형マスコット",
+     "note": "전3종 (선택) · 크기 ムーミン 약 6.5cm, スティンキー 약 6cm, モラン 약 8cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107309/87396379-bd95-4f60-ab90-0e649788ffcb.webp"
+    },
+    "F": {
+     "name": "1weekプレート",
+     "note": "전7종 (선택) · 크기 약 7.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107310/2ec5f666-c223-43c7-84ad-08cb26bfd10a.webp"
+    },
+    "G": {
+     "name": "ポーチ",
+     "note": "전5종 (선택) · 크기 약 11cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107311/b87ab1ee-162d-4452-a05d-fdede2036294.webp"
+    },
+    "H": {
+     "name": "핸드 타올",
+     "note": "전5종 (선택) · 크기 약 20cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107312/a6ede491-5e75-4ef5-a6d3-7c25124c15d4.webp"
+    },
+    "LAST": {
+     "name": "ムーミンやしき付き陶磁器プレート",
+     "note": "크기 약 15cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107313/0917f0ba-ba2f-4edc-9f7e-35896ad1713c.webp"
+    }
+   }
+  },
+  {
+   "slug": "ouran",
+   "title": "桜蘭高校ホスト部～20th Anniversary～",
+   "titleJa": "桜蘭高校ホスト部～20th Anniversary～",
+   "img": "https://assets.1kuji.com/uploads/product/image/10753/23558b20-91f2-4da5-a861-23b81e86bdd7.webp",
+   "date": "10월 24일 발매",
+   "day": 24,
+   "prizes": {
+    "A": {
+     "name": "桜蘭高校ホスト部 20th Anniversary 피규어",
+     "note": "전1종 · 크기 藤岡ハルヒ 약 14cm, 須王環 약 16cm　※台座込みのサイズです",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106589/3ce57fe4-a67d-4979-bfad-4ac05ff9f0ca.webp"
+    },
+    "B": {
+     "name": "はじまりの花瓶",
+     "note": "전1종 · 크기 약 10cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107298/75162064-3605-4450-9a10-ed383d020955.webp"
+    },
+    "C": {
+     "name": "メモリアルプレート",
+     "note": "전2종 (랜덤) · 크기 약 12cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107299/8855af10-d832-41ce-9de5-43556282ecb0.webp"
+    },
+    "D": {
+     "name": "초코놋코피규어",
+     "note": "전7종 (랜덤) · 크기 약 4.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107300/ac9215d2-c4be-46c3-91b3-3de078a4d501.webp"
+    },
+    "E": {
+     "name": "타올コレクション",
+     "note": "전6종 (선택) · 크기 綿타올 약 21cm, ジャガード타올 약 25cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107301/fc45950b-0bf8-445f-a3b4-8d88ab354c80.webp"
+    },
+    "F": {
+     "name": "아크릴 스탠드",
+     "note": "전6종 (선택) · 크기 약 8～10cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107302/1686d989-cfd8-4584-8715-b3515bbf8c00.webp"
+    },
+    "G": {
+     "name": "클리어 파일＆스티커セット",
+     "note": "전10종 (선택) · 크기 클리어 파일 A4, 스티커 L判",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107303/476be37a-495d-4370-a3e2-ceda25771bc8.webp"
+    },
+    "H": {
+     "name": "テロップラバー참",
+     "note": "전12종 (선택) · 크기 약 5.5～8.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107304/594f92a7-6a3f-4dcf-891b-664bccd860a0.webp"
+    },
+    "LAST": {
+     "name": "桜蘭高校ホスト部 20th Anniversary 피규어 ラストワンver.",
+     "note": "크기 藤岡ハルヒ 약 14cm, 須王環 약 16cm　※台座込みのサイズです",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107305/6ba1319e-8d7b-4f96-b1ca-2f97b9234c80.webp"
+    }
+   }
+  },
+  {
+   "slug": "shingeki16",
+   "title": "進撃の巨人 ～心臓を捧げよ～",
+   "titleJa": "進撃の巨人 ～心臓を捧げよ～",
+   "img": "https://assets.1kuji.com/uploads/product/image/10760/e68415d9-c45f-4186-ad5d-f4ee6d1ea8b5.webp",
+   "date": "10월 24일 발매",
+   "day": 24,
+   "prizes": {
+    "A": {
+     "name": "エレン MASTERLISE",
+     "note": "전1종 · 크기 약 24.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106583/718977d5-9a56-4bea-a965-d97b2ca40d3d.webp"
+    },
+    "B": {
+     "name": "ミカサ MASTERLISE",
+     "note": "전1종 · 크기 약 24.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106584/34163c08-cc77-404d-afb5-0c62ee43967e.webp"
+    },
+    "C": {
+     "name": "アルミン MASTERLISE",
+     "note": "전1종 · 크기 약 23.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106585/7bdc7fd8-7009-42ce-bbcd-d37f3b7cf99d.webp"
+    },
+    "D": {
+     "name": "エルヴィン MASTERLISE",
+     "note": "전1종 · 크기 약 26cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106586/bfea1124-aa7a-4216-9d29-33c1ee07127f.webp"
+    },
+    "E": {
+     "name": "ハンジ MASTERLISE",
+     "note": "전1종 · 크기 약 24.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106587/b1279e29-bf19-42fb-8bc9-8ba5b946a964.webp"
+    },
+    "F": {
+     "name": "きららいずマスコット",
+     "note": "전2종 (선택) · 크기 약 10cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107244/472e0469-13b9-498f-b6f5-278c9a89d988.webp"
+    },
+    "G": {
+     "name": "オーロラ포스터",
+     "note": "전8종 (선택) · 크기 A3",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107245/76a36251-d611-40ee-ab26-c495f2ab894f.webp"
+    },
+    "H": {
+     "name": "초코놋코 피규어",
+     "note": "전8종 (랜덤) · 크기 약 4.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107246/54b372a0-d5ef-4563-bb50-4dc0150e0a20.webp"
+    },
+    "I": {
+     "name": "ラバーコレクション",
+     "note": "전8종 (선택) · 크기 약 10cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107247/4a5a284c-d34f-40f3-8627-85185d5d02f9.webp"
+    },
+    "J": {
+     "name": "스티커コレクション",
+     "note": "전8종 (선택) · 크기 약 30cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107248/7bd4f35a-f336-414f-8bdb-717ce9381b16.webp"
+    },
+    "LAST": {
+     "name": "リヴァイ～人類最強の兵士～ MASTERLISE",
+     "note": "크기 약 30cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106588/7074c68d-938c-4426-b430-99a731b34980.webp"
+    }
+   }
+  },
+  {
+   "slug": "naruto11",
+   "title": "NARUTO-ナルト- 疾風伝 飛段・角都編",
+   "titleJa": "NARUTO-ナルト- 疾風伝 飛段・角都編",
+   "img": "https://assets.1kuji.com/uploads/product/image/10777/5cf6c265-a7f3-4d85-a244-cf2b05125190.webp",
+   "date": "10월 26일 발매",
+   "day": 26,
+   "prizes": {
+    "A": {
+     "name": "奈良シカマル MASTERLISE",
+     "note": "전1종 · 크기 약 25cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106726/e9d29dd7-4011-4f5f-95db-2b44abb9f5ac.webp"
+    },
+    "B": {
+     "name": "猿飛アスマ MASTERLISE",
+     "note": "전1종 · 크기 약 27cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106727/a14e79f7-ba25-4aea-98f7-eba50c114ce2.webp"
+    },
+    "C": {
+     "name": "飛段 MASTERLISE",
+     "note": "전1종 · 크기 약 25cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106728/86003c63-796a-43e4-a83f-687fa4f2ea50.webp"
+    },
+    "D": {
+     "name": "角都 MASTERLISE",
+     "note": "전1종 · 크기 약 26cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106729/8fe1928a-62af-43f3-8d62-c638b5b0959e.webp"
+    },
+    "E": {
+     "name": "ラグマット",
+     "note": "전1종 · 크기 약 45cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107288/82425f96-240a-4d93-ae20-fa4f29f6d4fc.webp"
+    },
+    "F": {
+     "name": "초코놋코피규어 “暁”Ver.",
+     "note": "전10종 (랜덤) · 크기 약 4cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107289/91649961-5d1b-40ef-a0f3-a10989e725fd.webp"
+    },
+    "G": {
+     "name": "ぽこっとちゃーむ",
+     "note": "전6종 (랜덤) · 크기 약 10cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107290/0421fb6a-eb29-4e17-9ff0-4217cd5d7dff.webp"
+    },
+    "H": {
+     "name": "-NARUTO 72 series-아크릴 참",
+     "note": "전9종 (랜덤) · 크기 약 5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107291/40d2596f-aeb6-41dd-b350-e7245cf2aa2c.webp"
+    },
+    "I": {
+     "name": "バラエティ스티커",
+     "note": "전10종 (선택) · 크기 見開き스티커 약 18cm, フレーク스티커 약 5cm（6장 세트）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107292/d998266c-b80d-4f06-b8f9-56c803b6ba77.webp"
+    },
+    "LAST": {
+     "name": "うずまきナルト 風遁・螺旋手裏剣 MASTERLISE",
+     "note": "크기 약 25cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106730/824acb8a-14b4-4a57-8552-77df6b31232c.webp"
+    }
+   }
+  },
+  {
+   "slug": "mojojojo",
+   "title": "ちょこっと mojojojo",
+   "titleJa": "ちょこっと mojojojo",
+   "img": "https://assets.1kuji.com/uploads/product/image/10795/5abe855e-403f-407e-8875-c33a3edd9fdf.webp",
+   "date": "10월 28일 발매",
+   "day": 28,
+   "prizes": {
+    "A": {
+     "name": "Satsumaimo COCOPOCCH!",
+     "note": "전1종 · 크기 약 9cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107277/3d1c8e92-5da7-47ac-99ac-5083674a310d.webp"
+    },
+    "B": {
+     "name": "Cabbage COCOPOCCH!",
+     "note": "전1종 · 크기 약 9cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107278/871cdd7a-33fc-4263-b9ff-77cecf945d86.webp"
+    },
+    "C": {
+     "name": "ぷちCOCOPOCCH!",
+     "note": "전2종 (선택) · 크기 약 5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107279/00078b67-356a-453b-b19e-2bf671cf7a78.webp"
+    },
+    "D": {
+     "name": "Peach 巾着ポーチ",
+     "note": "전1종 · 크기 약 14cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107280/8f1cc81c-5715-44cf-b802-a7b0d0733d3a.webp"
+    },
+    "E": {
+     "name": "아크릴 참",
+     "note": "전8종 (선택) · 크기 약 5.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107281/9b96bb0e-1714-4bd8-ae32-8f2c8c629f28.webp"
+    },
+    "F": {
+     "name": "ジッパーバッグ＆스티커セット",
+     "note": "전8종 (선택) · 크기 ジッパーバッグ 약 12cm, 스티커 약 4cm（5장 세트）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107282/4920e78f-693b-4182-b55b-7ae8e3dae252.webp"
+    },
+    "LAST": {
+     "name": "Avocado 巾着ポーチ",
+     "note": "크기 약 14cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107283/a1c18053-b876-4c6c-b7be-b53357e2e7c9.webp"
+    }
+   }
+  },
+  {
+   "slug": "onep_o12",
+   "title": "ONE PIECE -空に奏でる\"島の歌声\"（ラブ・ソング）-",
+   "titleJa": "ONE PIECE -空に奏でる\"島の歌声\"（ラブ・ソング）-",
+   "img": "https://assets.1kuji.com/uploads/product/image/10770/8cb61ff6-6ea5-4fc4-82f6-94dd925e68fe.webp",
+   "date": "10월 29일 발매",
+   "day": 29,
+   "prizes": {
+    "A": {
+     "name": "モンキー・D・ルフィ MASTERLISE EXPIECE",
+     "note": "전1종 · 크기 약 19cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106701/3b416f5e-7c46-4f7d-a7f8-4d92aee11def.webp"
+    },
+    "B": {
+     "name": "ナミ MASTERLISE EXPIECE",
+     "note": "전1종 · 크기 약 18cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106702/845d807b-a8ca-4c0d-a09c-6ba2fb90c0b7.webp"
+    },
+    "C": {
+     "name": "モンブラン・クリケット MASTERLISE EXPIECE",
+     "note": "전1종 · 크기 약 24cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106703/edc84f14-e761-42a8-9bf5-56515e25df4d.webp"
+    },
+    "D": {
+     "name": "ワイパー MASTERLISE EXPIECE",
+     "note": "전1종 · 크기 약 19cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106704/aefdd18f-f041-474d-a53b-ab76550a62d1.webp"
+    },
+    "E": {
+     "name": "『うそつきノーランド』 アートボード",
+     "note": "전1종 · 크기 A4",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107102/de6324f1-a880-4ab4-91e9-8348a5399e34.webp"
+    },
+    "F": {
+     "name": "モンブラン・クリケットの家風ペンスタンド",
+     "note": "전1종 · 크기 약 20cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107103/449a3766-ab04-4d22-a7ad-a361838b55bf.webp"
+    },
+    "G": {
+     "name": "ジャヤ＆空島の地図 MASTERELIVE COLLECTION",
+     "note": "전2종 (선택) · 크기 ジャヤの地図 약 24cm, 空島の地図 약 36cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107104/0d8d8056-8b24-4291-b3f3-69f2a5f72094.webp"
+    },
+    "H": {
+     "name": "デスクトップマスコット",
+     "note": "전5종 (랜덤) · 크기 약 5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107105/bdceedb2-7922-4b3f-90e2-e4ea83e6e82f.webp"
+    },
+    "I": {
+     "name": "黄金メタル참",
+     "note": "전8종 (선택) · 크기 약 4cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107106/af6511c5-5378-4653-bc0c-00a2a9b27e74.webp"
+    },
+    "J": {
+     "name": "クラウドグッズコレクション",
+     "note": "전10종 (선택) · 크기 ラバートレイ 약 8cm, 러버 마그넷 약 5cm, ラバークリップ 약 5cm, 러버 코스터 약 8cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107107/96855f9b-7657-48f4-b26f-1019951d8c7f.webp"
+    },
+    "K": {
+     "name": "스티커コレクション",
+     "note": "전10종 (선택) · 크기 약 4cm（5장 세트）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107108/54f6a417-ca32-46b4-82a4-3e2fff722695.webp"
+    },
+    "LAST": {
+     "name": "黄金の大鐘楼",
+     "note": "크기 약 11cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107109/0c76a8f1-c4f5-4b78-8730-79bbf6fa1dc0.webp"
+    }
+   }
+  },
+  {
+   "slug": "obungu6",
+   "title": "お文具といっしょ ～ちっちゃくなっちゃった!?～",
+   "titleJa": "お文具といっしょ ～ちっちゃくなっちゃった!?～",
+   "img": "https://assets.1kuji.com/uploads/product/image/10740/9f448420-dcb3-4e7b-ab9d-e532449b13fc.webp",
+   "date": "10월 31일 발매",
+   "day": 31,
+   "prizes": {
+    "A": {
+     "name": "お文具のおしゃべり인형",
+     "note": "전1종 · 크기 약 30cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107418/1170b710-720b-4d26-8e50-18f01562e4d5.webp"
+    },
+    "B": {
+     "name": "キルティングトートバッグ",
+     "note": "전1종 · 크기 약 35cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107419/c07cf8cb-e44a-407a-843f-9105816ce3d2.webp"
+    },
+    "C": {
+     "name": "ベビコス 인형マスコット",
+     "note": "전3종 (선택) · 크기 약 8～12cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107420/3c0c1189-eacf-44ce-8adf-3523a8df7b1c.webp"
+    },
+    "D": {
+     "name": "あったかスープボウル",
+     "note": "전1종 · 크기 약 10cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107421/9de42af9-d85c-4f81-9f8b-e594315c7a07.webp"
+    },
+    "E": {
+     "name": "ストックコンテナ",
+     "note": "전3종 (선택) · 크기 약 350ml",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107422/e9891b8b-9096-41f7-9007-881bb17f94c9.webp"
+    },
+    "F": {
+     "name": "バブいアクリルコレクション",
+     "note": "전6종 (선택) · 크기 クリップ 약 6cm, 참 약 4.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107423/43910a85-aaa2-44c0-bb3b-2b9057571150.webp"
+    },
+    "G": {
+     "name": "バブい타올コレクション",
+     "note": "전6종 (선택) · 크기 타올 약 23cm, ハンドルカバー 약 13cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107424/cf0b1476-cc49-46b6-988e-42a5ca28e954.webp"
+    },
+    "H": {
+     "name": "みだしなみコレクション",
+     "note": "전6종 (선택) · 크기 巾着 약 12.5cm, 缶ミラー 약 7.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107425/3cf2c737-975b-421f-9619-9a82bb281edc.webp"
+    },
+    "LAST": {
+     "name": "ちっちゃくなっちゃったお文具のおっきいクッション",
+     "note": "크기 약 50cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107426/25edb61d-1cb2-417c-b248-bfcfb43b1dfd.webp"
+    }
+   }
+  },
+  {
+   "slug": "miabyss",
+   "title": "メイドインアビス",
+   "titleJa": "メイドインアビス",
+   "img": "https://assets.1kuji.com/uploads/product/image/10748/72eba2b3-3b2c-44e9-9d8b-248f3ade4b62.webp",
+   "date": "10월 31일 발매",
+   "day": 31,
+   "prizes": {
+    "A": {
+     "name": "ボンドルド MASTERLISE",
+     "note": "전1종 · 크기 약 22cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106608/5cf668a9-d294-45d7-b204-f204ac075490.webp"
+    },
+    "B": {
+     "name": "ナナチ＆ミーティ Revible Moment",
+     "note": "전1종 · 크기 약 16cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106609/f9c79832-bb54-4ba1-94d1-a6f7fbcada16.webp"
+    },
+    "C": {
+     "name": "ビッグ타올",
+     "note": "전1종 · 크기 약 100cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107337/1caa3f94-fbd9-4338-81c9-cd31faac4c8f.webp"
+    },
+    "D": {
+     "name": "呪い除けの籠 피규어",
+     "note": "전1종 · 크기 약 11cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107338/c787f841-9d68-43db-ae67-16629afc2d91.webp"
+    },
+    "E": {
+     "name": "探窟家の笛 MASTERELIVE COLLECTION",
+     "note": "전3종 (랜덤) · 크기 약 10cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107339/0e98d10d-94b9-4f85-a665-4cacb97ca2cb.webp"
+    },
+    "F": {
+     "name": "ラバー참",
+     "note": "전8종 (랜덤) · 크기 약 6～7cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107340/aa8120c9-a75e-4133-be29-8c7826d66977.webp"
+    },
+    "G": {
+     "name": "아크릴 스탠드",
+     "note": "전7종 (선택) · 크기 약 7.5～10cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107341/3dee62a2-97bb-4763-b218-324f059159a0.webp"
+    },
+    "H": {
+     "name": "클리어 파일セット",
+     "note": "전10종 (선택) · 크기 A4（2장 세트）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107342/ea276bc7-ae37-4c8c-9c8f-4aea384149ae.webp"
+    },
+    "LAST": {
+     "name": "ボンドルド MASTERLISE ラストワンver.",
+     "note": "크기 약 22cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106610/6caa5a21-f75a-4246-97e3-a30d51235394.webp"
+    }
+   }
+  },
+  {
+   "slug": "fate29",
+   "title": "Fate/Grand Order（仮）",
+   "titleJa": "Fate/Grand Order（仮）",
+   "img": "https://assets.1kuji.com/uploads/product/image/10756/daf956b8-24bc-4c16-ae69-8f603d15603d.webp",
+   "date": "10월 31일 발매",
+   "day": 31,
+   "prizes": {
+    "A": {
+     "name": "マシュ・キリエライト 피규어 1/7 Gracemaster",
+     "note": "전1종 · 크기 약 22cm ※人物피규어のサイズ",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106547/e9b21959-6f50-45f5-b228-ccc3048f7e54.webp"
+    },
+    "B": {
+     "name": "オルガマリー・アニムスフィア 피규어 1/7 Gracemaster",
+     "note": "전1종 · 크기 약 23cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106548/1c0b65e7-cddc-4a71-8239-1d61e21837c1.webp"
+    },
+    "LAST": {
+     "name": "アンビースト／オルガマリー・アニムスフィア 피규어 1/7 Gracemaster",
+     "note": "크기 キャラクター頭頂部まで 약 23cm（背部パーツ込み 약 28cm）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/106982/c2da2484-5873-49e5-8b28-0d160fc812e5.webp"
+    }
+   }
+  },
+  {
+   "slug": "disney_coco",
+   "title": "〈リメンバー・ミー〉Colorful Memories",
+   "titleJa": "〈リメンバー・ミー〉Colorful Memories",
+   "img": "https://assets.1kuji.com/uploads/product/image/10757/3a418c84-9661-4d94-a54b-44a666db2f6a.webp",
+   "date": "10월 31일 발매",
+   "day": 31,
+   "prizes": {
+    "A": {
+     "name": "〈ミゲル〉＆〈ヘクター〉シーン피규어",
+     "note": "전1종 · 크기 약 14cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107256/adc6d2a1-2162-4ebc-8423-e6dd9393302d.webp"
+    },
+    "B": {
+     "name": "ブランケット",
+     "note": "전1종 · 크기 약 90cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107257/a3aa08f9-a61c-47d8-84e5-dec3ebbc4004.webp"
+    },
+    "C": {
+     "name": "トートバッグ",
+     "note": "전1종 · 크기 약 40cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107258/cba5ff03-3dff-440b-9f64-2b84306ddd5c.webp"
+    },
+    "D": {
+     "name": "ポーチ",
+     "note": "전2종 (선택) · 크기 약 15cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107259/1a412abe-8e8b-4901-8ee7-197233d3dd2e.webp"
+    },
+    "E": {
+     "name": "ビーズストラップ",
+     "note": "전2종 (선택) · 크기 약 13cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107260/b9f2e066-8da8-4caf-aff2-e5a2c97c1df1.webp"
+    },
+    "F": {
+     "name": "ミニキャンバスボードコレクション",
+     "note": "전6종 (선택) · 크기 약 10cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107261/5a311332-3840-4e52-9966-28e1484d570c.webp"
+    },
+    "G": {
+     "name": "ラバー雑貨コレクション",
+     "note": "전6종 (선택) · 크기 スマホグリップ 약 4cm, 참 약 4.5～6cm, ラバータイ 약 13cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107262/8b023a20-d883-482c-811c-4e4055bc9b2a.webp"
+    },
+    "H": {
+     "name": "포스터＆스티커コレクション",
+     "note": "전6종 (선택) · 크기 포스터 A3, 스티커 약 5.5～7cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107263/e380092b-6184-492a-a41a-c06477240340.webp"
+    },
+    "LAST": {
+     "name": "〈DAY OF THE DEAD〉ライト",
+     "note": "크기 약 20cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107264/153dd2c0-8cba-4b3f-8a5f-01e37b236bc4.webp"
+    }
+   }
+  }
+ ]
+}
