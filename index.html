@@ -826,7 +826,7 @@ function parseHTML(html){
 function parseText(text){
   const out={title:'',prizes:{}};let cur=null;
   const mdImg=/!\[[^\]]*\]\((https?:\/\/[^)\s]*product_item\/image\/[^)\s]+)\)/;
-  const t=(text.match(/一番くじ\s*([^\n｜]+)/)||[])[1];if(t)out.title=t.trim();
+  const t=(text.match(/一番くじ\s*([^\n｜]+)/)||[])[1];if(t)out.title=t.trim();const tl=text.split(String.fromCharCode(10)).map(l=>l.replace(/^#+\s*/,'').trim()).find(l=>/^一番くじ\s/.test(l)&&!/倶楽部/.test(l));out.title=tl?tl.replace(/^一番くじ\s*/,'').replace(/｜.*$/,'').trim():(/倶楽部/.test(out.title)?'':out.title);
   text.split(/\r?\n/).forEach(line=>{const l=line.trim();if(!l)return;
     const gk=gradeKey(l);
     if(gk&&gk.name){cur=out.prizes[gk.k]||(out.prizes[gk.k]={name:gk.name,img:'',note:'',_n:[]});return;}
