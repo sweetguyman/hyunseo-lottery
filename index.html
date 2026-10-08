@@ -831,7 +831,7 @@ function parseText(text){
     const gk=gradeKey(l);
     if(gk&&gk.name){cur=out.prizes[gk.k]||(out.prizes[gk.k]={name:gk.name,img:'',note:'',_n:[]});return;}
     const mi=l.match(mdImg);if(cur&&mi&&!cur.img){cur.img=mi[1];return;}
-    if(cur&&/^[-\s]*■/.test(l)&&cur._n.length<2&&!cur._n.some(x=>x[0]===l.replace(/^[-\s]*■/,'')[0]))cur._n.push(jp2kr(l.replace(/^[-\s]*/,'')));
+    if(cur&&/^[-*\s]*■/.test(l)&&cur._n.length<2&&!cur._n.some(x=>x[0]===l.replace(/^[-*\s]*■/,'')[0]))cur._n.push(jp2kr(l.replace(/^[-*\s]*/,'')));
   });
   Object.values(out.prizes).forEach(p=>{p.note=p._n.join(' · ');delete p._n;});
   return out;
@@ -848,9 +848,9 @@ const normUrl=v=>{v=String(v||'').trim();if(/^[\w-]+$/.test(v))return 'https://1
 const slugOf=u=>(String(u||'').match(/products\/([\w-]+)/)||[])[1]||'';
 async function fetchPage(url){
   const enc=encodeURIComponent(url);
-  const tries=[['https://api.allorigins.win/raw?url='+enc,'html'],['https://api.allorigins.win/get?url='+enc,'json'],[url,'html'],['https://r.jina.ai/'+url,'md']];
+  const tries=[['https://r.jina.ai/'+url,'md'],['https://api.allorigins.win/raw?url='+enc,'html'],['https://api.allorigins.win/get?url='+enc,'json']];
   for(const [u,kind] of tries){
-    try{const r=await fetch(u);if(!r.ok)continue;let t=await r.text();
+    try{const ac=new AbortController();const tm=setTimeout(()=>ac.abort(),12000);const r=await fetch(u,{signal:ac.signal});clearTimeout(tm);if(!r.ok)continue;let t=await r.text();
       if(kind==='json'){try{t=JSON.parse(t).contents||'';}catch(e){continue;}}
       if(t.includes('賞'))return {text:t,kind:kind==='md'?'md':'html'};
     }catch(e){}
