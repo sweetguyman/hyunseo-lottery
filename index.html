@@ -1008,7 +1008,7 @@ $('#lb').onclick=closeLB;
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('#lb').hidden)closeLB();});
 
 renderStart();show('s-start');
-loadCatalog();(async()=>{let n=0;for(const g of games){try{const c=g.cfg;const d={title:c.title,prizes:{}};KEYS.forEach(k=>d.prizes[k]={name:c.prizes[k].name,note:c.prizes[k].note});if(![d.title,...KEYS.flatMap(k=>[d.prizes[k].name,d.prizes[k].note])].some(hasJa))continue;await koify(d);if(hasJa(d.title)&&hasJa(c.title))continue;c.title=d.title;KEYS.forEach(k=>{c.prizes[k].name=d.prizes[k].name;c.prizes[k].note=d.prizes[k].note;});n++;}catch(e){}}if(n){cfg=cur.cfg;persist();renderStart();if(!$('#s-board').hidden)renderBoard();if(!$('#s-list').hidden)renderList();toast('상품 이름을 한국어로 바꿨어요');}})();
+(async()=>{await loadCatalog();let n=0;for(const g of games){try{const c=g.cfg;const d={title:c.title,prizes:{}};KEYS.forEach(k=>d.prizes[k]={name:c.prizes[k].name,note:c.prizes[k].note});if(![d.title,...KEYS.flatMap(k=>[d.prizes[k].name,d.prizes[k].note])].some(hasJa))continue;await koify(d);if(hasJa(d.title)&&hasJa(c.title))continue;c.title=d.title;KEYS.forEach(k=>{c.prizes[k].name=d.prizes[k].name;c.prizes[k].note=d.prizes[k].note;});n++;}catch(e){}}if(n){cfg=cur.cfg;persist();renderStart();if(!$('#s-board').hidden)renderBoard();if(!$('#s-list').hidden)renderList();toast('상품 이름을 한국어로 바꿨어요');}})();
 try{const qp=new URLSearchParams(location.search).get('kuji');
   if(qp){const g=games.find(x=>slugOf(x.cfg.source)===slugOf(normUrl(qp)));if(g){selectGame(g.id);renderStart();}else importFromUrl(qp,true,'new');}}catch(e){}
 })();
