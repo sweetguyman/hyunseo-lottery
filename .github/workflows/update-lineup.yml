@@ -1,0 +1,25 @@
+name: 이번 달 복권 목록 업데이트
+
+on:
+  schedule:
+    - cron: '0 18 * * *'   # 매일 새벽 3시 (한국 시간)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/update-lineup.mjs
+      - name: Save the lineup
+        run: |
+          git config user.name "lineup-bot"
+          git config user.email "lineup-bot@users.noreply.github.com"
+          git add data/lineup.json || true
+          git diff --cached --quiet || (git commit -m "이번 달 복권 목록 업데이트" && git push)
