@@ -831,7 +831,7 @@ function parseText(text){
     const gk=gradeKey(l);
     if(gk&&gk.name){cur=out.prizes[gk.k]||(out.prizes[gk.k]={name:gk.name,img:'',note:'',_n:[]});return;}
     const mi=l.match(mdImg);if(cur&&mi&&!cur.img){cur.img=mi[1];return;}
-    if(cur&&/^[-*\s]*■/.test(l)&&cur._n.length<2&&!cur._n.some(x=>x[0]===l.replace(/^[-*\s]*■/,'')[0]))cur._n.push(jp2kr(l.replace(/^[-*\s]*/,'')));
+    if(cur&&/^[-*\s]*■/.test(l)&&cur._n.length<2&&!/当選/.test(l)&&!cur._n.some(x=>x[0]===l.replace(/^[-*\s]*■/,'')[0]))cur._n.push(jp2kr(l.replace(/^[-*\s]*/,'')));
   });
   Object.values(out.prizes).forEach(p=>{p.note=p._n.join(' · ');delete p._n;});
   return out;
@@ -865,18 +865,18 @@ function renderShare(){
 }
 $('#im-share-copy').onclick=()=>{const i=$('#im-share-url');const done=()=>toast('링크를 복사했어요');
   if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(i.value).then(done,()=>{i.select();toast('링크를 선택했어요. 복사해서 쓰세요');});}else{i.select();toast('링크를 선택했어요. 복사해서 쓰세요');}};
-async function importFromUrl(raw,quiet){
+const GLOSS=[['アクリルチャーム','아크릴 참'],['チャーム','참'],['缶バッジ','캔배지'],['ラバーストラップ','러버 스트랩'],['ラバーマグネット','러버 마그넷'],['ラバーコースター','러버 코스터'],['アクリルスタンド','아크릴 스탠드'],['アクリルスタンドキーホルダー','아크릴 스탠드 키홀더'],['クリアファイル','클리어 파일'],['ハンドタオル','핸드 타올'],['タオル','타올'],['ぬいぐるみ','인형'],['フィギュア','피규어'],['色紙','색지'],['ちょこのっこ','초코놧코'],['ラストワン賞','라스트원상'],['リングストラップ','링 스트랩'],['ステッカー','스티커'],['マグカップ','머그컵'],['ポスター','포스터']];const hasJa=s=>/[぀-ヿ一-鿿]/.test(s||'');async function toKo(arr){  const src=arr.map(s=>GLOSS.reduce((t,[a,b])=>t.split(a).join(b),String(s||'')));  const idx=src.map((s,i)=>hasJa(s)?i:-1).filter(i=>i>=0);if(!idx.length)return src;  const NL=String.fromCharCode(10);const gt=async q=>{const ac=new AbortController();const tm=setTimeout(()=>ac.abort(),10000);    const r=await fetch('https://translate.googleapis.com/translate_a/single?client=gtx&sl=ja&tl=ko&dt=t&q='+encodeURIComponent(q),{signal:ac.signal});clearTimeout(tm);const j=await r.json();return j[0].map(x=>x[0]).join('');};  try{const o=(await gt(idx.map(i=>src[i]).join(NL))).split(NL);    if(o.length===idx.length){idx.forEach((i,n)=>src[i]=o[n].trim());return src;}    const each=await Promise.all(idx.map(i=>gt(src[i]).catch(()=>src[i])));idx.forEach((i,n)=>src[i]=each[n].trim());  }catch(e){}  return src;}async function koify(d){const ks=Object.keys(d.prizes);const o=await toKo([d.title||'',...ks.map(k=>d.prizes[k].name),...ks.map(k=>d.prizes[k].note||'')]);  d.title=o[0];ks.forEach((k,i)=>{d.prizes[k].name=o[1+i];d.prizes[k].note=o[1+ks.length+i];});}async function importFromUrl(raw,quiet){
   const url=normUrl(raw);const st=$('#im-status');
   if(!/^https?:\/\/(www\.)?1kuji\.com\/.*products\/[\w-]+/.test(url)){st.className='status err';st.textContent='1kuji.com 상품 페이지 주소를 넣어주세요. 예: https://1kuji.com/areas/kr/products/shingeki14';return false;}
   if(!draft)draft=JSON.parse(JSON.stringify(cfg));
   st.className='status';st.textContent='사이트에서 불러오는 중… (몇 초 걸려요)';$('#im-go').disabled=true;
   if(quiet)toast('복권 상품을 불러오는 중…');
   try{
-    const {text,kind}=await fetchPage(url);const d=kind==='md'?parseText(text):parseHTML(text);
+    const {text,kind}=await fetchPage(url);const d=kind==='md'?parseText(text):parseHTML(text);st.textContent='한국어로 번역하는 중…';await koify(d);
     if(!applyImport(d,url))throw new Error('parse');
     cfg=JSON.parse(JSON.stringify(draft));board=newBoard(cfg);persist();renderShare();
     const n=Object.keys(d.prizes).length,ni=Object.values(d.prizes).filter(p=>p.img).length;
-    st.className='status ok';st.innerHTML=`<b>${esc(cfg.title)}</b> · ${n}개 상, 사진 ${ni}장을 불러오고 80장 새 판을 섞었어요. 상품명은 사이트의 일본어 원문이라 필요하면 아래에서 고친 뒤 저장하세요. <button class="btn sm" id="im-play" style="margin-left:6px">게임 시작 →</button>`;
+    st.className='status ok';st.innerHTML=`<b>${esc(cfg.title)}</b> · ${n}개 상, 사진 ${ni}장을 불러오고 80장 새 판을 섞었어요. 이름은 일본어 원문을 자동 번역한 거라 어색하면 아래에서 고친 뒤 저장하세요. <button class="btn sm" id="im-play" style="margin-left:6px">게임 시작 →</button>`;
     $('#im-play').onclick=()=>{renderBoard();show('s-board');};
     $('#im-paste').hidden=true;
     if(quiet){renderStart();if(!$('#s-board').hidden)renderBoard();toast(`${cfg.title} 준비 완료`);}
@@ -888,8 +888,8 @@ async function importFromUrl(raw,quiet){
 }
 $('#im-go').onclick=()=>importFromUrl($('#im-url').value);
 $('#im-url').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();importFromUrl($('#im-url').value);}});
-$('#im-parse').onclick=()=>{
-  const d=parseText($('#im-text').value);const st=$('#im-status');
+$('#im-parse').onclick=async()=>{
+  const d=parseText($('#im-text').value);await koify(d);const st=$('#im-status');
   if(applyImport(d,$('#im-url').value.trim())){st.className='status ok';st.textContent=`${Object.keys(d.prizes).length}개 상을 글에서 찾았어요. 사진은 "사진 올리기"로 넣어주세요.`;}
   else{st.className='status err';st.textContent='"A賞 …" 같은 줄을 찾지 못했어요. 상품 페이지 전체를 복사했는지 확인해 주세요.';}
 };
