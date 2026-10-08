@@ -933,7 +933,7 @@ $('#lb').onclick=closeLB;
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('#lb').hidden)closeLB();});
 
 renderStart();show('s-start');
-try{const qp=new URLSearchParams(location.search).get('kuji');
+(async()=>{try{const d={title:cfg.title,prizes:{}};KEYS.forEach(k=>d.prizes[k]={name:cfg.prizes[k].name,note:cfg.prizes[k].note});if(![d.title,...KEYS.flatMap(k=>[d.prizes[k].name,d.prizes[k].note])].some(hasJa))return;await koify(d);if(hasJa(d.title)&&hasJa(cfg.title))return;cfg.title=d.title;KEYS.forEach(k=>{cfg.prizes[k].name=d.prizes[k].name;cfg.prizes[k].note=d.prizes[k].note;});persist();renderStart();if(!$('#s-board').hidden)renderBoard();toast('상품 이름을 한국어로 바꿨어요');}catch(e){}})();try{const qp=new URLSearchParams(location.search).get('kuji');
   if(qp&&slugOf(normUrl(qp))!==slugOf(cfg.source))importFromUrl(qp,true);}catch(e){}
 })();
 </script>
