@@ -809,7 +809,7 @@ function parseHTML(html){
   const doc=new DOMParser().parseFromString(html,'text/html');
   const out={title:'',prizes:{}};
   const h2=[...doc.querySelectorAll('h1,h2')].map(e=>e.textContent.trim()).find(t=>/一番くじ|제일복권|이치방/.test(t)&&t.length<120);
-  out.title=(h2||doc.title||'').replace(/｜.*$/,'').replace(/^一番くじ\s*/,'').trim();
+  out.title=((doc.title||'').split('｜')[0]||h2||'').replace(/^一番くじ\s*/,'').trim();
   const heads=[...doc.querySelectorAll('h3,h4,h5')];
   heads.forEach(h=>{
     const gk=gradeKey(h.textContent.replace(/\s+/g,' '));if(!gk)return;
