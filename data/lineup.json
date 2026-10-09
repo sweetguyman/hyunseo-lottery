@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T23:04:11.113Z",
+ "updated": "2026-10-09T22:24:51.196Z",
  "month": "2026-10",
  "label": "10월 발매",
  "items": [
@@ -507,7 +507,7 @@
    "day": 17,
    "prizes": {
     "A": {
-     "name": "호일 푸시 복제 사인이 포함 된 비주얼 보드",
+     "name": "호일 푸시 복제 사인이 들어간 비주얼 보드",
      "note": "전1종 · 크기 B3",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107409/3103716e-0934-4b93-a9d7-9c374b89c702.webp"
     },
@@ -533,7 +533,7 @@
     },
     "F": {
      "name": "고무 어소트",
-     "note": "전 7종(선택)",
+     "note": "전 7종 (선택)",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107414/70f2ee3a-ad31-4741-9b53-6ae6d705aa1c.webp"
     },
     "G": {
@@ -652,9 +652,64 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/107312/a6ede491-5e75-4ef5-a6d3-7c25124c15d4.webp"
     },
     "LAST": {
-     "name": "무민 야자수 도자기 플레이트",
+     "name": "무민 야자와 도자기 플레이트",
      "note": "크기 약 15cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107313/0917f0ba-ba2f-4edc-9f7e-35896ad1713c.webp"
+    }
+   }
+  },
+  {
+   "slug": "sumikko27",
+   "title": "스미코 그라시 ~ 만약 스미코가 진화하면? ~",
+   "titleJa": "すみっコぐらし～もしもすみっコが進化したら？～",
+   "img": "https://assets.1kuji.com/uploads/product/image/10750/e6932a07-9236-4e8b-9843-d992eed8ecd6.webp",
+   "date": "10월 24일 발매",
+   "day": 24,
+   "prizes": {
+    "A": {
+     "name": "인형 진화 세트 (토카게)",
+     "note": "전1종 · 크기 약 5～9cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107439/d1773e15-2184-4dd0-a388-9337209d1e42.webp"
+    },
+    "B": {
+     "name": "인형 진화 세트 (새우 후라이의 꼬리)",
+     "note": "전1종 · 크기 약 4～9cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107440/7e9924bf-ed89-48fc-8b4f-1cbf1edd4a26.webp"
+    },
+    "C": {
+     "name": "인형 세트",
+     "note": "전2종 (선택) · 크기 약 6.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107441/cce409b2-1b47-4e8a-a25e-b764392f51bd.webp"
+    },
+    "D": {
+     "name": "따뜻한 머그컵",
+     "note": "전1종 · 크기 약 9cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107442/83f06745-dc2a-4824-aba9-4a50aa180d87.webp"
+    },
+    "E": {
+     "name": "도자기 작은 접시",
+     "note": "전5종 (선택) · 크기 약 6～8cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107443/69cf9d17-0f90-4df1-b157-f7e83ac9c586.webp"
+    },
+    "F": {
+     "name": "아크릴 참",
+     "note": "전5종 (선택) · 크기 약 2.5～3.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107444/b9c28d56-8ad1-4682-bbe1-afa5e8f23a51.webp"
+    },
+    "G": {
+     "name": "도움 패브릭 어소트",
+     "note": "전 7종 (선택)",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107445/9d51c295-1a4a-4ebe-8fd4-5e80ca5f33cc.webp"
+    },
+    "H": {
+     "name": "유용한 책상 액세서리 세트",
+     "note": "전6종(선택)",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107446/a30ae6e4-fdd9-4cf7-a329-f8da63563a3e.webp"
+    },
+    "LAST": {
+     "name": "가시 담요 in 쿠션",
+     "note": "크기 쿠션 약 30cm, 담요 약 80cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107447/44d19a46-0015-475b-a4b4-a2a170b7356b.webp"
     }
    }
   },
@@ -668,7 +723,7 @@
    "prizes": {
     "A": {
      "name": "오란고교 호스트부 20th Anniversary 피규어",
-     "note": "전 1종 · 사이즈 후지오카 하루히 약 14cm, 스오환 약 16cm ※대좌 포함의 사이즈입니다",
+     "note": "전 1종 · 사이즈 후지오카 하루히 약 14cm, 스오환 약 16cm※대좌 포함의 사이즈입니다",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106589/3ce57fe4-a67d-4979-bfad-4ac05ff9f0ca.webp"
     },
     "B": {
@@ -708,7 +763,7 @@
     },
     "LAST": {
      "name": "오란고교 호스트부 20th Anniversary 피규어 라스트 원 ver.",
-     "note": "사이즈 후지오카 하루히 약 14cm, 스오환 약 16cm※대좌 포함의 사이즈입니다",
+     "note": "사이즈 후지오카 하루히 약 14cm, 스오환 약 16cm ※대좌 포함의 사이즈입니다",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107305/6ba1319e-8d7b-4f96-b1ca-2f97b9234c80.webp"
     }
    }
@@ -832,7 +887,7 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/107292/d998266c-b80d-4f06-b8f9-56c803b6ba77.webp"
     },
     "LAST": {
-     "name": "우즈마키 나루토 풍요·나선수리검 MASTERLISE",
+     "name": "우즈마키 나루토 풍요・나선수리검 MASTERLISE",
      "note": "크기 약 25cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106730/824acb8a-14b4-4a57-8552-77df6b31232c.webp"
     }
@@ -873,7 +928,7 @@
     },
     "F": {
      "name": "지퍼 가방 & 스티커 세트",
-     "note": "전8종(선택) ·사이즈 지퍼 가방 약 12 cm, 스티커 약 4 cm(5장 세트)",
+     "note": "전 8종 (선택) · 사이즈 지퍼 가방 약 12cm, 스티커 약 4cm(5장 세트)",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107282/4920e78f-693b-4182-b55b-7ae8e3dae252.webp"
     },
     "LAST": {
@@ -993,7 +1048,7 @@
     },
     "G": {
      "name": "바브 타올 컬렉션",
-     "note": "전 6종 (선택) · 사이즈 타올 약 23cm, 핸들 커버 약 13cm",
+     "note": "전6종 (선택) · 사이즈 타오르 약 23cm, 핸들 커버 약 13cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107424/cf0b1476-cc49-46b6-988e-42a5ca28e954.webp"
     },
     "H": {
@@ -1065,9 +1120,9 @@
   },
   {
    "slug": "fate29",
-   "title": "Fate/Grand Order(임시)",
-   "titleJa": "Fate/Grand Order（仮）",
-   "img": "https://assets.1kuji.com/uploads/product/image/10756/daf956b8-24bc-4c16-ae69-8f603d15603d.webp",
+   "title": "Fate/Grand Order ~칼데아 픽업 메모리~",
+   "titleJa": "Fate/Grand Order 〜カルデアピックアップメモリー〜",
+   "img": "https://assets.1kuji.com/uploads/product/image/10756/b48b40ce-bda4-4781-9116-c62807f03014.webp",
    "date": "10월 31일 발매",
    "day": 31,
    "prizes": {
@@ -1081,9 +1136,44 @@
      "note": "전1종 · 크기 약 23cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106548/1c0b65e7-cddc-4a71-8239-1d61e21837c1.webp"
     },
+    "C": {
+     "name": "칼데아 직원 티셔츠",
+     "note": "전1종 · 사이즈 남성용 LL사이즈",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107448/5e2069fa-ea74-439e-b690-c1203725440c.webp"
+    },
+    "D": {
+     "name": "어벤져 / 와카오 에드몬 단테스 // 라이더 / 네모 봉제 제닉",
+     "note": "전2종 (선택) · 크기 약 12cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107449/c1ab15e7-2b21-4625-9fb3-78d16af28888.webp"
+    },
+    "E": {
+     "name": "라이더 / 레오나르도 다 빈치 // 골돌프 무지크 박제닉",
+     "note": "전2종 (선택) · 크기 약 12cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107450/b331fbd6-325c-4b30-8296-3375975af99c.webp"
+    },
+    "F": {
+     "name": "칼데아 기념 클리어 포스터",
+     "note": "전20종 (선택) · 크기 A4",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107451/bc63a754-a1da-409d-a96c-968471314ab1.webp"
+    },
+    "G": {
+     "name": "쿤 캐릭터 아크릴 스탠드",
+     "note": "전 10종(그 중 시크릿 2종・선택할 수 없다) · 사이즈 약 6 cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107452/c2c210ee-d4ee-40e6-85b9-9fe1e8f2c3f0.webp"
+    },
+    "H": {
+     "name": "칼데아 수술 고무 참",
+     "note": "전10종 (선택) · 크기 약 5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107453/f28f95b7-206d-4aac-a805-e4329897ea3b.webp"
+    },
+    "I": {
+     "name": "영주 컬렉션 스티커",
+     "note": "전12종 (선택) · 크기 약 4.5～6cm（4장 세트）",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107454/89691d90-b91a-4c7d-bd58-dec47ad0b428.webp"
+    },
     "LAST": {
      "name": "언비스트 / 오르가마리 애님 스피어 피규어 1/7 Gracemaster",
-     "note": "사이즈 캐릭터 정수리까지 약 23 cm(뒤 부분 포함 약 28 cm)",
+     "note": "크기 캐릭터 정수리까지 약 23cm(뒤 부분 포함 약 28cm)",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106982/c2da2484-5873-49e5-8b28-0d160fc812e5.webp"
     }
    }
