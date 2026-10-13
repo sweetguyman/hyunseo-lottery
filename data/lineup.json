@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T21:38:22.613Z",
+ "updated": "2026-10-13T22:24:37.962Z",
  "month": "2026-10",
  "label": "10월 발매",
  "items": [
@@ -652,9 +652,69 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/107312/a6ede491-5e75-4ef5-a6d3-7c25124c15d4.webp"
     },
     "LAST": {
-     "name": "무민 야자와 도자기 플레이트",
+     "name": "무민 야자수 도자기 플레이트",
      "note": "크기 약 15cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107313/0917f0ba-ba2f-4edc-9f7e-35896ad1713c.webp"
+    }
+   }
+  },
+  {
+   "slug": "kagurabachi",
+   "title": "카구라바치",
+   "titleJa": "カグラバチ",
+   "img": "https://assets.1kuji.com/uploads/product/image/10742/ed6a3877-922e-45e3-bd9e-c0cf98cdeace.webp",
+   "date": "10월 24일 발매",
+   "day": 24,
+   "prizes": {
+    "A": {
+     "name": "연재 3주년 기념 북보드",
+     "note": "전1종 · 크기 약 46cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107459/bc8144dc-419d-4b52-9666-6a21c2f9081b.webp"
+    },
+    "B": {
+     "name": "육평천광 MASTERLISE",
+     "note": "전1종 · 크기 약 20cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107460/92242737-dad3-4774-9fb8-c96315dbd243.webp"
+    },
+    "C": {
+     "name": "漣伯理 MASTERLISE",
+     "note": "전1종 · 크기 약 19cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107461/498414d1-1884-4447-b9d1-95de043b74b6.webp"
+    },
+    "D": {
+     "name": "빅 타올",
+     "note": "전2종 (선택) · 크기 약 100cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107462/79345118-fbf6-4e59-9c90-273181fb0f6a.webp"
+    },
+    "E": {
+     "name": "메쉬 파우치",
+     "note": "전2종 (선택) · 크기 약 14cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107463/ee12f28f-7a3d-4e04-81cd-6b86e3476441.webp"
+    },
+    "F": {
+     "name": "클리어 포스터",
+     "note": "전20종 (선택) · 크기 A3",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107464/60a70422-7419-44d5-b105-48c578a5a9b4.webp"
+    },
+    "G": {
+     "name": "아크릴 스탠드",
+     "note": "전16종 (랜덤) · 크기 약 6cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107465/c2e93472-e5a8-407e-a31b-577edb055ddd.webp"
+    },
+    "H": {
+     "name": "아크릴 참",
+     "note": "전7종 (선택) · 크기 약 7cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107466/e2a79944-2b5e-4221-8380-3ffbf9651a46.webp"
+    },
+    "I": {
+     "name": "클리어 파일 & 스티커 세트",
+     "note": "전11종 (선택) · 크기 클리어 파일 A4, 스티커 약 9cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107467/b6828c67-d18a-4be4-b062-551800baf7f7.webp"
+    },
+    "LAST": {
+     "name": "육평 천광 MASTERLISE 라스트 원 ver.",
+     "note": "크기 약 22cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107468/243b3788-8f07-463d-9f89-d381562df058.webp"
     }
    }
   },
@@ -669,47 +729,47 @@
     "A": {
      "name": "인형 진화 세트 (토카게)",
      "note": "전1종 · 크기 약 5～9cm",
-     "img": "https://assets.1kuji.com/uploads/product_item/image/107439/d1773e15-2184-4dd0-a388-9337209d1e42.webp"
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107439/6f13a40f-02ce-451c-9f78-836aad675f37.webp"
     },
     "B": {
      "name": "인형 진화 세트 (새우 후라이의 꼬리)",
      "note": "전1종 · 크기 약 4～9cm",
-     "img": "https://assets.1kuji.com/uploads/product_item/image/107440/7e9924bf-ed89-48fc-8b4f-1cbf1edd4a26.webp"
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107440/d1e2e9c3-d78a-46d6-95f7-3850439ba317.webp"
     },
     "C": {
      "name": "인형 세트",
      "note": "전2종 (선택) · 크기 약 6.5cm",
-     "img": "https://assets.1kuji.com/uploads/product_item/image/107441/cce409b2-1b47-4e8a-a25e-b764392f51bd.webp"
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107441/bce206e3-32bf-4583-8cb5-387c7dca52ba.webp"
     },
     "D": {
      "name": "따뜻한 머그컵",
      "note": "전1종 · 크기 약 9cm",
-     "img": "https://assets.1kuji.com/uploads/product_item/image/107442/83f06745-dc2a-4824-aba9-4a50aa180d87.webp"
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107442/ce0f8d49-e3d4-4036-a136-9228db908754.webp"
     },
     "E": {
      "name": "도자기 작은 접시",
      "note": "전5종 (선택) · 크기 약 6～8cm",
-     "img": "https://assets.1kuji.com/uploads/product_item/image/107443/69cf9d17-0f90-4df1-b157-f7e83ac9c586.webp"
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107443/7a0e94ed-df09-494f-86fa-f77ca220534d.webp"
     },
     "F": {
      "name": "아크릴 참",
      "note": "전5종 (선택) · 크기 약 2.5～3.5cm",
-     "img": "https://assets.1kuji.com/uploads/product_item/image/107444/b9c28d56-8ad1-4682-bbe1-afa5e8f23a51.webp"
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107444/dca59023-54be-41cf-8198-291c7208acc6.webp"
     },
     "G": {
      "name": "도움 패브릭 어소트",
      "note": "전 7종 (선택)",
-     "img": "https://assets.1kuji.com/uploads/product_item/image/107445/9d51c295-1a4a-4ebe-8fd4-5e80ca5f33cc.webp"
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107445/32ce1cc1-eb07-42e4-b3a2-86a4a6563ef1.webp"
     },
     "H": {
      "name": "유용한 책상 액세서리 세트",
      "note": "전6종(선택)",
-     "img": "https://assets.1kuji.com/uploads/product_item/image/107446/a30ae6e4-fdd9-4cf7-a329-f8da63563a3e.webp"
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107446/ba9d7d7f-662d-44f6-963d-3b8cb3b855bf.webp"
     },
     "LAST": {
      "name": "가시 담요 in 쿠션",
      "note": "크기 쿠션 약 30cm, 담요 약 80cm",
-     "img": "https://assets.1kuji.com/uploads/product_item/image/107447/44d19a46-0015-475b-a4b4-a2a170b7356b.webp"
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107447/3efbea48-f494-4169-8edd-77ed166d4921.webp"
     }
    }
   },
@@ -723,7 +783,7 @@
    "prizes": {
     "A": {
      "name": "오란고교 호스트부 20th Anniversary 피규어",
-     "note": "전 1종 · 사이즈 후지오카 하루히 약 14cm, 스오환 약 16cm ※대좌 포함의 사이즈입니다",
+     "note": "전 1종 · 사이즈 후지오카 하루히 약 14cm, 스오환 약 16cm※대좌 포함의 사이즈입니다",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106589/3ce57fe4-a67d-4979-bfad-4ac05ff9f0ca.webp"
     },
     "B": {
@@ -763,7 +823,7 @@
     },
     "LAST": {
      "name": "오란고교 호스트부 20th Anniversary 피규어 라스트 원 ver.",
-     "note": "사이즈 후지오카 하루히 약 14cm, 스오환 약 16cm※대좌 포함의 사이즈입니다",
+     "note": "사이즈 후지오카 하루히 약 14cm, 스오환 약 16cm ※대좌 포함의 사이즈입니다",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107305/6ba1319e-8d7b-4f96-b1ca-2f97b9234c80.webp"
     }
    }
@@ -887,7 +947,7 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/107292/d998266c-b80d-4f06-b8f9-56c803b6ba77.webp"
     },
     "LAST": {
-     "name": "우즈마키 나루토 풍요・나선수리검 MASTERLISE",
+     "name": "우즈마키 나루토 풍요·나선수리검 MASTERLISE",
      "note": "크기 약 25cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106730/824acb8a-14b4-4a57-8552-77df6b31232c.webp"
     }
@@ -928,7 +988,7 @@
     },
     "F": {
      "name": "지퍼 가방 & 스티커 세트",
-     "note": "전 8종 (선택) · 사이즈 지퍼 가방 약 12cm, 스티커 약 4cm(5장 세트)",
+     "note": "전8종(선택) ·사이즈 지퍼 가방 약 12 cm, 스티커 약 4 cm(5장 세트)",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107282/4920e78f-693b-4182-b55b-7ae8e3dae252.webp"
     },
     "LAST": {
@@ -1010,7 +1070,7 @@
   },
   {
    "slug": "obungu6",
-   "title": "오분구와 함께~ 엉망이 되어버렸다!?~",
+   "title": "오분구와 함께~ 엉망이 되어 버렸다!?~",
    "titleJa": "お文具といっしょ ～ちっちゃくなっちゃった!?～",
    "img": "https://assets.1kuji.com/uploads/product/image/10740/9f448420-dcb3-4e7b-ab9d-e532449b13fc.webp",
    "date": "10월 31일 발매",
@@ -1048,7 +1108,7 @@
     },
     "G": {
      "name": "바브 타올 컬렉션",
-     "note": "전6종 (선택) · 사이즈 타오르 약 23cm, 핸들 커버 약 13cm",
+     "note": "전 6종 (선택) · 사이즈 타올 약 23cm, 핸들 커버 약 13cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107424/cf0b1476-cc49-46b6-988e-42a5ca28e954.webp"
     },
     "H": {
@@ -1132,7 +1192,7 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/106547/e9b21959-6f50-45f5-b228-ccc3048f7e54.webp"
     },
     "B": {
-     "name": "올가마리 애님 스피어 피규어 1/7 Gracemaster",
+     "name": "오르가마리 애님 스피어 피규어 1/7 Gracemaster",
      "note": "전1종 · 크기 약 23cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106548/1c0b65e7-cddc-4a71-8239-1d61e21837c1.webp"
     },
@@ -1173,7 +1233,7 @@
     },
     "LAST": {
      "name": "언비스트 / 오르가마리 애님 스피어 피규어 1/7 Gracemaster",
-     "note": "크기 캐릭터 정수리까지 약 23cm(뒤 부분 포함 약 28cm)",
+     "note": "사이즈 캐릭터 정수리까지 약 23 cm(뒤 부분 포함 약 28 cm)",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106982/c2da2484-5873-49e5-8b28-0d160fc812e5.webp"
     }
    }
