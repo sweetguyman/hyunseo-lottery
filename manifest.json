@@ -1,0 +1,16 @@
+{
+ "name": "현서 제일 복권",
+ "short_name": "제일복권",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#13112a",
+ "theme_color": "#13112a",
+ "icons": [
+  {
+   "src": "icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
