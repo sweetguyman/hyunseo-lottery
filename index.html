@@ -8,7 +8,7 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="제일복권">
-<link rel="apple-touch-icon" href="icon.png">
+<link rel="apple-touch-icon" href="icon.png"><link rel="manifest" href="manifest.json"><script>window.addEventListener('error',function(e){if(document.getElementById('hsk-err')||performance.now()>8000)return;var d=document.createElement('div');d.id='hsk-err';d.style.cssText='position:fixed;left:12px;right:12px;bottom:calc(16px + env(safe-area-inset-bottom,0px));z-index:99999;background:#fff;color:#15131c;border-radius:14px;padding:14px 16px;font:15px/1.5 system-ui,sans-serif;box-shadow:0 8px 30px rgba(0,0,0,.4)';d.innerHTML='문제가 생겨 화면을 불러오지 못했어요.<br><button style="margin-top:10px;padding:10px 16px;border:0;border-radius:10px;background:#e8262f;color:#fff;font-size:15px;font-weight:700">처음부터 다시 시작</button>';d.querySelector('button').onclick=function(){try{['hsk_games','hsk_cur','hsk_cfg','hsk_board'].forEach(function(k){localStorage.removeItem(k)})}catch(x){}location.replace(location.pathname)};(document.body||document.documentElement).appendChild(d)});</script>
 <link rel="icon" href="icon.png">
 <style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
 <title>현서 제일 복권</title>
@@ -506,7 +506,7 @@ function presetDB(){
     I:{name:'플레이크 프리즘 스티커',note:'전8종 (선택) · 약 7cm (5장 세트)',img:IMG+'105681/a494261a-884d-416c-9eef-16dca73c9474.webp'},
     LAST:{name:'마인 부우 MASTERLISE',note:'마지막 1장을 뽑으면 획득 · 약 26cm',img:IMG+'104861/874e8cbc-2e3c-4bdf-8a26-0b5d0a408985.webp'}
   };
-  const q=autoQty(GR);GR.forEach(g=>p[g].qty=q[g]);
+  const ks=GR.filter(g=>p[g]);const q=autoQty(ks);ks.forEach(g=>p[g].qty=q[g]);
   return {title:'드래곤볼 BATTLE OF THE SUPER SAIYAN',price:13000,source:'https://1kuji.com/areas/kr/products/db_z7',prizes:p};
 }
 function blankCfg(){const p={};KEYS.forEach(k=>p[k]={name:'',note:'',img:'',qty:0});return {title:'',price:13000,source:'',prizes:p};}
