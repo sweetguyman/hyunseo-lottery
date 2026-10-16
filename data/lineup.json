@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T21:03:53.769Z",
+ "updated": "2026-10-16T20:39:15.902Z",
  "month": "2026-10",
  "label": "10월 발매",
  "items": [
@@ -507,7 +507,7 @@
    "day": 17,
    "prizes": {
     "A": {
-     "name": "호일 푸시 복제 사인이 포함 된 비주얼 보드",
+     "name": "호일 푸시 복제 사인이 들어간 비주얼 보드",
      "note": "전1종 · 크기 B3",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107409/3103716e-0934-4b93-a9d7-9c374b89c702.webp"
     },
@@ -533,7 +533,7 @@
     },
     "F": {
      "name": "고무 어소트",
-     "note": "전 7종(선택)",
+     "note": "전 7종 (선택)",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107414/70f2ee3a-ad31-4741-9b53-6ae6d705aa1c.webp"
     },
     "G": {
@@ -652,7 +652,7 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/107312/a6ede491-5e75-4ef5-a6d3-7c25124c15d4.webp"
     },
     "LAST": {
-     "name": "무민 야자수 도자기 플레이트",
+     "name": "무민 야자와 도자기 플레이트",
      "note": "크기 약 15cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107313/0917f0ba-ba2f-4edc-9f7e-35896ad1713c.webp"
     }
@@ -757,7 +757,7 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/107444/dca59023-54be-41cf-8198-291c7208acc6.webp"
     },
     "G": {
-     "name": "유용한 패브릭 어소트",
+     "name": "도움 패브릭 어소트",
      "note": "전 7종 (선택)",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107445/32ce1cc1-eb07-42e4-b3a2-86a4a6563ef1.webp"
     },
@@ -947,7 +947,7 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/107292/d998266c-b80d-4f06-b8f9-56c803b6ba77.webp"
     },
     "LAST": {
-     "name": "우즈마키 나루토 풍요·나선수리검 MASTERLISE",
+     "name": "우즈마키 나루토 풍요・나선수리검 MASTERLISE",
      "note": "크기 약 25cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106730/824acb8a-14b4-4a57-8552-77df6b31232c.webp"
     }
@@ -1070,7 +1070,7 @@
   },
   {
    "slug": "obungu6",
-   "title": "오분구와 함께~ 엉망이 되어버렸다!?~",
+   "title": "오분구와 함께~ 엉망이 되어 버렸다!?~",
    "titleJa": "お文具といっしょ ～ちっちゃくなっちゃった!?～",
    "img": "https://assets.1kuji.com/uploads/product/image/10740/9f448420-dcb3-4e7b-ab9d-e532449b13fc.webp",
    "date": "10월 31일 발매",
@@ -1108,7 +1108,7 @@
     },
     "G": {
      "name": "바브 타올 컬렉션",
-     "note": "전6종 (선택) · 사이즈 타오르 약 23cm, 핸들 커버 약 13cm",
+     "note": "전 6종 (선택) · 사이즈 타올 약 23cm, 핸들 커버 약 13cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107424/cf0b1476-cc49-46b6-988e-42a5ca28e954.webp"
     },
     "H": {
