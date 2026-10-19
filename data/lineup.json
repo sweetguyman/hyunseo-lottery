@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T20:16:42.801Z",
+ "updated": "2026-10-19T22:07:10.479Z",
  "month": "2026-10",
  "label": "10월 발매",
  "items": [
@@ -97,7 +97,7 @@
    "day": 3,
    "prizes": {
     "A": {
-     "name": "나츠 드래그닐 MASTERLISE",
+     "name": "나츠 드라그닐 MASTERLISE",
      "note": "전1종 · 크기 약 25cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106591/a2510b80-6d5a-4003-a6c7-db0ebfb946fa.webp"
     },
@@ -107,12 +107,12 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/106592/fb136a89-16d2-4c5f-8941-23f2a35a23ee.webp"
     },
     "C": {
-     "name": "행복한 MASTERLISE",
+     "name": "해피 MASTERLISE",
      "note": "전1종 · 크기 약 7cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106593/298aea5b-250b-45ca-a660-debb15c6ad4e.webp"
     },
     "D": {
-     "name": "천상의 영혼 데스크탑 마스코트",
+     "name": "성령들의 데스크탑 마스코트",
      "note": "전2종 (랜덤) · 크기 약 5cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106987/d5d1f9a3-200c-46a0-8c52-21f65e8ec3a3.webp"
     },
@@ -122,12 +122,12 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/106988/3428fb29-b97e-4ece-a845-d3a504a98061.webp"
     },
     "F": {
-     "name": "화면 지우기",
+     "name": "클리어 포스터",
      "note": "전12종 (선택) · 크기 A3",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106989/bbc5b5d4-10b6-4513-a416-8598e39bdb41.webp"
     },
     "G": {
-     "name": "구색",
+     "name": "스티커 어소트",
      "note": "전12종 (선택) · 크기 약 5cm（6장 세트）, 약 7cm（4장 세트）",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106990/9c82044a-d766-4877-bcd7-97a0c5ff1366.webp"
     },
@@ -507,7 +507,7 @@
    "day": 17,
    "prizes": {
     "A": {
-     "name": "호일 푸시 복제 사인이 포함 된 비주얼 보드",
+     "name": "호일 푸시 복제 사인이 들어간 비주얼 보드",
      "note": "전1종 · 크기 B3",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107409/3103716e-0934-4b93-a9d7-9c374b89c702.webp"
     },
@@ -533,7 +533,7 @@
     },
     "F": {
      "name": "고무 어소트",
-     "note": "전 7종(선택)",
+     "note": "전 7종 (선택)",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107414/70f2ee3a-ad31-4741-9b53-6ae6d705aa1c.webp"
     },
     "G": {
@@ -652,7 +652,7 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/107312/a6ede491-5e75-4ef5-a6d3-7c25124c15d4.webp"
     },
     "LAST": {
-     "name": "무민 야자수 도자기 플레이트",
+     "name": "무민 야자와 도자기 플레이트",
      "note": "크기 약 15cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107313/0917f0ba-ba2f-4edc-9f7e-35896ad1713c.webp"
     }
@@ -757,7 +757,7 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/107444/dca59023-54be-41cf-8198-291c7208acc6.webp"
     },
     "G": {
-     "name": "유용한 패브릭 어소트",
+     "name": "도움 패브릭 어소트",
      "note": "전 7종 (선택)",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107445/32ce1cc1-eb07-42e4-b3a2-86a4a6563ef1.webp"
     },
@@ -783,7 +783,7 @@
    "prizes": {
     "A": {
      "name": "오란고교 호스트부 20th Anniversary 피규어",
-     "note": "전 1종 · 사이즈 후지오카 하루히 약 14cm, 스오환 약 16cm ※대좌 포함의 사이즈입니다",
+     "note": "전 1종 · 사이즈 후지오카 하루히 약 14cm, 스오환 약 16cm※대좌 포함의 사이즈입니다",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106589/3ce57fe4-a67d-4979-bfad-4ac05ff9f0ca.webp"
     },
     "B": {
@@ -823,7 +823,7 @@
     },
     "LAST": {
      "name": "오란고교 호스트부 20th Anniversary 피규어 라스트 원 ver.",
-     "note": "사이즈 후지오카 하루히 약 14cm, 스오환 약 16cm※대좌 포함의 사이즈입니다",
+     "note": "사이즈 후지오카 하루히 약 14cm, 스오환 약 16cm ※대좌 포함의 사이즈입니다",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107305/6ba1319e-8d7b-4f96-b1ca-2f97b9234c80.webp"
     }
    }
@@ -947,7 +947,7 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/107292/d998266c-b80d-4f06-b8f9-56c803b6ba77.webp"
     },
     "LAST": {
-     "name": "우즈마키 나루토 풍요·나선수리검 MASTERLISE",
+     "name": "우즈마키 나루토 풍요・나선수리검 MASTERLISE",
      "note": "크기 약 25cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106730/824acb8a-14b4-4a57-8552-77df6b31232c.webp"
     }
