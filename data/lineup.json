@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T22:59:51.240Z",
+ "updated": "2026-11-04T23:21:31.011Z",
  "month": "2026-11",
  "label": "11월 발매",
  "items": [
@@ -795,6 +795,26 @@
      "name": "파동 비틀림 MASTERLISE",
      "note": "전1종 · 크기 약 23cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106995/b49430a9-cc80-4965-91bb-4d40d9a5fd96.webp"
+    },
+    "E": {
+     "name": "걸스! 초코놋코",
+     "note": "전10종 (랜덤) · 크기 약 4.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107552/46aa1140-fb8c-4b3c-8d2f-bc25fcc3f0da.webp"
+    },
+    "F": {
+     "name": "캔버스 스타일 보드",
+     "note": "전10종 (선택) · 크기 A5",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107553/f0a48ac7-a17f-45b4-8aeb-86a77e89cd66.webp"
+    },
+    "G": {
+     "name": "고무 참",
+     "note": "전8종 (랜덤) · 크기 약 8cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107554/85ffd224-986e-45c8-83af-e566fd380ab7.webp"
+    },
+    "H": {
+     "name": "클리어 스티커 & 다이 컷 스티커",
+     "note": "전 10종 (선택) · 사이즈 클리어 스티커 약 14cm, 다이 컷 스티커 약 8cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107555/5cdc060b-9295-4a20-9f7a-5d015b6309a4.webp"
     },
     "LAST": {
      "name": "토가히미코 MASTERLISE",
