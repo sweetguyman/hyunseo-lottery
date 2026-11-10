@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T01:17:54.357Z",
+ "updated": "2026-11-10T22:57:38.210Z",
  "month": "2026-11",
  "label": "11월 발매",
  "items": [
@@ -103,11 +103,11 @@
     },
     "G": {
      "name": "고무 컬렉션",
-     "note": "전 7종(선택)",
+     "note": "전 7종 (선택)",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107437/596e8c18-103a-42a8-9da5-898d5c5d29b6.webp"
     },
     "H": {
-     "name": "티켓 파일 및 스티커 세트",
+     "name": "티켓 파일 & 스티커 세트",
      "note": "전7종 (선택) · 사이즈 티켓 파일 약 21cm, 스티커 약 5cm(3장 세트)",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107438/ea0b225d-7694-4488-954f-0e4cd7b6179b.webp"
     },
@@ -532,13 +532,13 @@
      "img": "https://assets.1kuji.com/uploads/product_item/image/106770/cef3c986-b322-4edf-be59-6980490e181d.webp"
     },
     "C": {
-     "name": "반올림하면 탱크 고양이!? 고양이 칸!? 변신 담요",
+     "name": "반올림하면 탱크 고양이!? 고양이 강!? 변신 담요",
      "note": "전1종 · 크기 약 90cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106771/51ce10e1-3664-435c-8bc9-bc4a5df5e47a.webp"
     },
     "D": {
      "name": "네코칸형 케이스 첨부 미니 피규어 24체 세트",
-     "note": "전 1종 · 사이즈 케이스 직경 약 18cm, 고양이 약 3.5cm, 탱크 고양이 약 5cm",
+     "note": "전1종 · 사이즈 케이스 직경 약 18cm, 고양이 약 3.5cm, 탱크 고양이 약 5cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106772/ef17a7c2-b104-42d8-8a11-fc9bf916e009.webp"
     },
     "E": {
@@ -570,6 +570,66 @@
      "name": "탱크 고양이 슈퍼 빅 인형",
      "note": "크기 약 60cm",
      "img": "https://assets.1kuji.com/uploads/product_item/image/106778/f4fa8462-b06d-4f6b-8be8-ee6c2191433b.webp"
+    }
+   }
+  },
+  {
+   "slug": "tamagotchi6",
+   "title": "Tamagotchi ~밤 하늘에서 발견! ? 12 별자리와 다마고치~",
+   "titleJa": "Tamagotchi ～夜空で発見！？12星座とたまごっち～",
+   "img": "https://assets.1kuji.com/uploads/product/image/10761/180fd5a6-adec-4227-9990-53e1587a925f.webp",
+   "date": "11월 21일 발매",
+   "day": 21,
+   "prizes": {
+    "A": {
+     "name": "류성 키라리 ★ 담요 in 쿠션",
+     "note": "전1종 · 사이즈 쿠션 약 40cm, 담요 약 90cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107604/6e527eac-c9cb-4457-81f0-fb9e76fb9532.webp"
+    },
+    "B": {
+     "name": "별이 빛나는 하늘을 바라 보자 ★ 마메 치 스탠드 미러",
+     "note": "전1종 · 크기 약 25cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107605/0b69d5eb-9ea0-41ec-9de8-24c143b8cd86.webp"
+    },
+    "C": {
+     "name": "이치 반 스타 ★ 마치 그릇",
+     "note": "전1종 · 크기 약 15cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107606/5bd1e5bf-b80e-4770-a1a8-088c627ab99a.webp"
+    },
+    "D": {
+     "name": "별과 함께 ★ 인형 마스코트",
+     "note": "전3종 (선택) · 크기 약 7.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107607/a1cd91ed-e2bf-4201-a5cd-bd0dec68e1fd.webp"
+    },
+    "E": {
+     "name": "유성 ★ 매우 멋진 머그컵",
+     "note": "전1종 · 크기 약 9.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107608/4691669f-98fd-4556-b9b1-7c9f5aeb1bab.webp"
+    },
+    "F": {
+     "name": "12 별자리★메탈 참",
+     "note": "전12종 (선택) · 크기 약 4cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107609/276a0fbc-83a9-4630-9986-c1b79d98a719.webp"
+    },
+    "G": {
+     "name": "반짝반짝 ★ 고무 컬렉션",
+     "note": "전12종 (선택) · 크기 약 4.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107610/b833b81c-adf1-41ac-b12b-c89e6f1768ea.webp"
+    },
+    "H": {
+     "name": "타마모리 ★ 12 별자리 시루",
+     "note": "전4종 (선택) · 크기 약 12.5cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107612/ae653da1-4d97-4638-ab43-8f3e331c9350.webp"
+    },
+    "I": {
+     "name": "고치 카드 첨부 ★ 달걀형 트럼프",
+     "note": "전 2종 (랜덤)※트럼프 공통 1종",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107613/a60092d3-823a-414f-9238-e65a587ca436.webp"
+    },
+    "LAST": {
+     "name": "별과 함께 ★ 마메 치 인형",
+     "note": "크기 약 30cm",
+     "img": "https://assets.1kuji.com/uploads/product_item/image/107616/f178ddcc-19cc-477b-b63c-f47116bde300.webp"
     }
    }
   },
@@ -798,7 +858,7 @@
     },
     "F": {
      "name": "아크릴 자석",
-     "note": "전7종(랜덤) · 사이즈 약 4cm(2개 세트)",
+     "note": "전7종 (랜덤) · 사이즈 약 4cm(2개 세트)",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107518/ee528d22-86ad-4aed-9cf3-c8ca67b4d77c.webp"
     },
     "G": {
@@ -813,7 +873,7 @@
     },
     "I": {
      "name": "지퍼 가방 & 스티커 세트",
-     "note": "전 8종 (선택) · 사이즈 지퍼 가방 약 15cm, 스티커 약 5.5cm",
+     "note": "전 8종 (선택) · 사이즈 지퍼 가방 약 15cm, 스티커 약 5.5cm(4장 세트)",
      "img": "https://assets.1kuji.com/uploads/product_item/image/107521/19659e5e-1ef0-471e-95f5-891d6cd43112.webp"
     },
     "LAST": {
